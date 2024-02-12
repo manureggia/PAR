@@ -1,0 +1,23 @@
+{
+  "disableHeadlines": false,
+  "graphOverwrite": false,
+  "rootIndexFile": "",
+  "autoCreateIndexFile": false,
+  "autoRenameIndexFile": false,
+  "includeFileContent": false,
+  "hideIndexFiles": false,
+  "indexFileInitText": "---\ntags: MOCs\n---\n```folder-index-content\n```",
+  "autoPreviewMode": true,
+  "sortIndexFilesAlphabetically": true,
+  "sortHeadersAlphabetically": false,
+  "recursiveIndexFiles": false,
+  "renderFolderBold": true,
+  "renderFolderItalic": false,
+  "useBulletPoints": true,
+  "excludeFolders": [
+    "Immagini",
+    "README"
+  ],
+  "recursionLimit": -1,
+  "headlineLimit": 6
+}
