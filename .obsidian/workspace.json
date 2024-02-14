@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34e11e258f2d7160",
+        "id": "a2ca70523cc17b1d",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca2a0af0480371e",
+            "id": "b20740d1d8c1cca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "HTTP.md"
               }
             }
           }
@@ -146,21 +146,24 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "2ca2a0af0480371e",
+  "active": "b20740d1d8c1cca2",
   "lastOpenFiles": [
+    "Immagini/Screenshot 2024-02-14 alle 17.41.17.png",
+    "Immagini/Screenshot 2024-02-14 alle 17.38.26.png",
+    "Immagini/Screenshot 2024-02-14 alle 16.22.52.png",
+    "HTTP.md",
+    "Immagini/Screenshot 2024-02-14 alle 17.33.09.png",
+    "DNS.md",
+    "Immagini/Screenshot 2024-02-14 alle 16.25.28.png",
+    "Immagini/Screenshot 2024-02-14 alle 15.46.40.png",
+    "Immagini/Screenshot 2024-02-14 alle 15.57.14.png",
+    "Immagini/Screenshot 2024-02-14 alle 15.37.59.png",
+    "README.md",
     "Immagini/Immagini_Index.md",
     "3. Livello Network.md",
-    "README.md",
     "Immagini/Screenshot 2024-02-12 alle 16.03.41.png",
     "Immagini/Screenshot 2024-02-12 alle 16.26.15.png",
     "Immagini/Screenshot 2024-02-12 alle 16.06.06.png",
-    "4. Livello trasporto.md",
-    "Immagini/Screenshot 2024-02-12 alle 16.01.25.png",
-    "Pasted image 20240212160023.png",
-    "Immagini/Screenshot 2024-02-12 alle 15.44.59.png",
-    "Immagini/Screenshot 2024-02-12 alle 15.54.56.png",
-    "Immagini/Screenshot 2024-02-12 alle 15.48.34.png",
-    "Pasted image 20240212155327.png",
-    "Immagini/Screenshot 2024-02-12 alle 15.40.13.png"
+    "4. Livello trasporto.md"
   ]
 }
