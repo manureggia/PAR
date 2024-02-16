@@ -39,3 +39,25 @@ L'indirizzo IP di destinatzione utilizzato sarà l'indirzzo IP sorgente del pacc
 
 ![[Screenshot 2024-02-16 alle 15.18.30.png]]
 
+#### ICMP Packet too big
+
+Un tipo particolare della famiglia unreachable, inviato dai router se il pacchetto IP non può essere inoltrato a causa di MTU troppo piccolo
+
+![[Screenshot 2024-02-16 alle 15.28.25.png]]
+
+Messaggio ICMP potenzialmente inviato in caso di impossibilità di inoltro per un pacchetto troppo grande:
+- in caso di frammentazione non supportata dal router
+- in caso di flag **do not fragment** settato dal mittente nell'header IP
+
+> Ha (anche) lo scopo di consentire l'individuazione del path MTU
+### Time Exceeded Message (type = 1)
+
+Il tempo di vita del pacchetto è esaurito. Il code = 0 è utilizzato per segnalare che il pacchetto è stato scartato a causa del TTL esaurito:
+- prima di inviare il pacchetto il router decrementa il TTL, se questo va a 0 il pacchetto non viene inviato. Il router manda il pacchetto ICMP con type=1 e code=0 per segnalare questa informazione
+
+### Redirect Message (type = 5)
+
+Esiste un percorso migliore per inviare il pacchetto a destinazione. In base alle proprie regole di routing, un gateway può informare il mittente del pacchetto IP che esiste un percorso migliore per inviare pacchetti alla destinazione desiderata
+
+
+
