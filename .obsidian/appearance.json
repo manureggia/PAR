@@ -2,6 +2,7 @@
   "accentColor": "",
   "cssTheme": "Sanctum",
   "interfaceFontFamily": "American Typewriter",
-  "baseFontSize": 15,
-  "theme": "moonstone"
+  "baseFontSize": 14,
+  "theme": "moonstone",
+  "baseFontSizeAction": false
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ca70523cc17b1d",
+        "id": "8ae23c783a1b5c22",
         "type": "tabs",
         "children": [
           {
-            "id": "b20740d1d8c1cca2",
+            "id": "61834b9cbc5d59f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4426fb2778b4a583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ICMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTTP.md",
+                "file": "ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTTP.md",
+                "file": "ICMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP.md"
+                "file": "ICMP.md"
               }
             }
           }
@@ -146,24 +159,26 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "b20740d1d8c1cca2",
+  "active": "4426fb2778b4a583",
   "lastOpenFiles": [
-    "Immagini/Screenshot 2024-02-14 alle 17.41.17.png",
-    "Immagini/Screenshot 2024-02-14 alle 17.38.26.png",
-    "Immagini/Screenshot 2024-02-14 alle 16.22.52.png",
+    "Screenshot 2024-02-16 alle 15.18.30.png",
+    "Immagini/Screenshot 2024-02-16 alle 15.11.49.png",
     "HTTP.md",
-    "Immagini/Screenshot 2024-02-14 alle 17.33.09.png",
+    "ICMP.md",
+    "E-mail.md",
     "DNS.md",
-    "Immagini/Screenshot 2024-02-14 alle 16.25.28.png",
-    "Immagini/Screenshot 2024-02-14 alle 15.46.40.png",
-    "Immagini/Screenshot 2024-02-14 alle 15.57.14.png",
-    "Immagini/Screenshot 2024-02-14 alle 15.37.59.png",
-    "README.md",
-    "Immagini/Immagini_Index.md",
+    "4. Livello trasporto.md",
     "3. Livello Network.md",
-    "Immagini/Screenshot 2024-02-12 alle 16.03.41.png",
-    "Immagini/Screenshot 2024-02-12 alle 16.26.15.png",
-    "Immagini/Screenshot 2024-02-12 alle 16.06.06.png",
-    "4. Livello trasporto.md"
+    "Immagini/Screenshot 2024-02-15 alle 17.22.18.png",
+    "Immagini/Screenshot 2024-02-15 alle 16.46.54.png",
+    "Immagini/Screenshot 2024-02-15 alle 16.43.46.png",
+    "Immagini/Screenshot 2024-02-15 alle 15.23.11.png",
+    "Immagini/Screenshot 2024-02-15 alle 15.20.46.png",
+    "Immagini/Screenshot 2024-02-15 alle 15.12.24.png",
+    "Immagini/Screenshot 2024-02-15 alle 15.04.03.png",
+    "Immagini/Screenshot 2024-02-15 alle 14.51.38.png",
+    "Immagini/Screenshot 2024-02-14 alle 17.41.17.png",
+    "README.md",
+    "Immagini/Immagini_Index.md"
   ]
 }
