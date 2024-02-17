@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae23c783a1b5c22",
+        "id": "a151b1bd980eda1d",
         "type": "tabs",
         "children": [
           {
-            "id": "61834b9cbc5d59f6",
+            "id": "13aa0433af0424a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP.md",
+                "file": "Protocolli di rete sicuri.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4426fb2778b4a583",
+            "id": "d0480d3cae003446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ICMP.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3a034b43cebf551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Livello Host 2 Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ICMP.md",
+                "file": "1. Livello Host 2 Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ICMP.md",
+                "file": "1. Livello Host 2 Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ICMP.md"
+                "file": "1. Livello Host 2 Network.md"
               }
             }
           }
@@ -159,26 +171,28 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "4ce399fc695a532e",
+  "active": "f3a034b43cebf551",
   "lastOpenFiles": [
-    "Immagini/Screenshot 2024-02-16 alle 15.28.25.png",
-    "Immagini/Screenshot 2024-02-16 alle 15.18.30.png",
-    "Immagini/Screenshot 2024-02-16 alle 15.11.49.png",
+    "README.md",
+    "1. Livello Host 2 Network.md",
+    "IPv6.md",
+    "Immagini/Screenshot 2024-02-16 alle 18.55.22.png",
+    "Immagini/Screenshot 2024-02-16 alle 18.43.57.png",
+    "Immagini/Screenshot 2024-02-16 alle 18.37.15.png",
+    "Immagini/Screenshot 2024-02-16 alle 18.25.38.png",
+    "Immagini/Screenshot 2024-02-16 alle 18.24.08.png",
+    "Immagini/Screenshot 2024-02-16 alle 18.23.36.png",
+    "Immagini/Screenshot 2024-02-16 alle 18.22.59.png",
+    "Protocolli di rete sicuri.md",
+    "Immagini/Screenshot 2024-02-16 alle 18.09.46.png",
+    "Immagini/Screenshot 2024-02-16 alle 17.48.32.png",
+    "Immagini/Screenshot 2024-02-16 alle 17.10.23.png",
     "HTTP.md",
     "ICMP.md",
     "E-mail.md",
     "DNS.md",
     "4. Livello trasporto.md",
     "3. Livello Network.md",
-    "Immagini/Screenshot 2024-02-15 alle 17.22.18.png",
-    "Immagini/Screenshot 2024-02-15 alle 16.46.54.png",
-    "Immagini/Screenshot 2024-02-15 alle 16.43.46.png",
-    "Immagini/Screenshot 2024-02-15 alle 15.23.11.png",
-    "Immagini/Screenshot 2024-02-15 alle 15.20.46.png",
-    "Immagini/Screenshot 2024-02-15 alle 15.12.24.png",
-    "Immagini/Screenshot 2024-02-15 alle 15.04.03.png",
-    "Immagini/Screenshot 2024-02-15 alle 14.51.38.png",
-    "README.md",
     "Immagini/Immagini_Index.md"
   ]
 }
