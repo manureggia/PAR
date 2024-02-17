@@ -1,8 +1,10 @@
 {
-  "accentColor": "",
-  "cssTheme": "Sanctum",
-  "interfaceFontFamily": "American Typewriter",
+  "accentColor": "#0d8bab",
+  "cssTheme": "Typewriter",
+  "interfaceFontFamily": "",
   "baseFontSize": 14,
   "theme": "moonstone",
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "textFontFamily": ""
 }

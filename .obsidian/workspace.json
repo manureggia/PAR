@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolli di rete sicuri.md",
+                "file": "8. Protocolli di rete sicuri.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Livello Host 2 Network.md",
+                "file": "1. Livello Host to Network.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -73,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Livello Host 2 Network.md",
+                "file": "1. Livello Host to Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Livello Host 2 Network.md",
+                "file": "1. Livello Host to Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Livello Host 2 Network.md"
+                "file": "1. Livello Host to Network.md"
               }
             }
           }
@@ -171,28 +172,29 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "f3a034b43cebf551",
+  "active": "4ce399fc695a532e",
   "lastOpenFiles": [
+    "Immagini/Screenshot 2024-02-17 alle 15.02.55.png",
+    "Immagini/Screenshot 2024-02-17 alle 14.51.25.png",
+    "Immagini/Screenshot 2024-02-17 alle 14.46.30.png",
+    "Immagini/Screenshot 2024-02-17 alle 12.55.43.png",
+    "Immagini/Screenshot 2024-02-17 alle 12.53.56.png",
+    "Immagini/Screenshot 2024-02-17 alle 12.49.15.png",
+    "Immagini/Screenshot 2024-02-17 alle 12.12.30.png",
+    "Immagini/Screenshot 2024-02-17 alle 11.57.53.png",
+    "Immagini/Screenshot 2024-02-17 alle 11.47.23.png",
+    "Immagini/Screenshot 2024-02-17 alle 11.43.37.png",
+    "8. Protocolli di rete sicuri.md",
+    "9. IPv6.md",
+    "4. ICMP.md",
+    "1. Livello Host to Network.md",
+    "Immagini/Screenshot 2024-02-17 alle 11.15.14.png",
     "README.md",
-    "1. Livello Host 2 Network.md",
-    "IPv6.md",
-    "Immagini/Screenshot 2024-02-16 alle 18.55.22.png",
-    "Immagini/Screenshot 2024-02-16 alle 18.43.57.png",
-    "Immagini/Screenshot 2024-02-16 alle 18.37.15.png",
-    "Immagini/Screenshot 2024-02-16 alle 18.25.38.png",
-    "Immagini/Screenshot 2024-02-16 alle 18.24.08.png",
-    "Immagini/Screenshot 2024-02-16 alle 18.23.36.png",
-    "Immagini/Screenshot 2024-02-16 alle 18.22.59.png",
-    "Protocolli di rete sicuri.md",
-    "Immagini/Screenshot 2024-02-16 alle 18.09.46.png",
-    "Immagini/Screenshot 2024-02-16 alle 17.48.32.png",
-    "Immagini/Screenshot 2024-02-16 alle 17.10.23.png",
-    "HTTP.md",
-    "ICMP.md",
-    "E-mail.md",
-    "DNS.md",
-    "4. Livello trasporto.md",
-    "3. Livello Network.md",
+    "6. HTTP.md",
+    "7. E-mail.md",
+    "5. DNS.md",
+    "3. Livello trasporto.md",
+    "2. Livello Network.md",
     "Immagini/Immagini_Index.md"
   ]
 }

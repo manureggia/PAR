@@ -6,5 +6,10 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "focusNewTab": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true
 }
