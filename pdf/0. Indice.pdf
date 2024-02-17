@@ -1,0 +1,1658 @@
+%PDF-1.4
+%Óëéá
+1 0 obj
+<</Creator (Mozilla/5.0 \(Macintosh; Intel Mac OS X 10_15_7\) AppleWebKit/537.36 \(KHTML, like Gecko\) obsidian/1.5.3 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36)
+/Producer (Skia/PDF m114)
+/CreationDate (D:20240217144034+00'00')
+/ModDate (D:20240217144034+00'00')>>
+endobj
+3 0 obj
+<</ca 1
+/BM /Normal>>
+endobj
+5 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 772.66998 207.25002 786.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md)>>>>
+endobj
+6 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 756.16998 142 769.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Lan%20Ethernet)>>>>
+endobj
+7 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 739.66998 179.50002 753.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Lan%20Ethernet#Topologia%20per%20LAN)>>>>
+endobj
+8 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 721.66998 118.75 735.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet)>>>>
+endobj
+9 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 705.16998 156.250015 718.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Indirizzo%20MAC)>>>>
+endobj
+10 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 687.91998 166.750015 701.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Frame%20Ethernet)>>>>
+endobj
+11 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 671.41998 149.5 684.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Frame%20Ethernet#Preambolo)>>>>
+endobj
+12 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 654.16998 136.75 667.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Frame%20Ethernet#Indirizzi)>>>>
+endobj
+13 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 636.91998 115.75 650.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Frame%20Ethernet#Tipo)>>>>
+endobj
+14 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 618.91998 114.25 632.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Frame%20Ethernet#Dati)>>>>
+endobj
+15 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 601.66998 112.75 615.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Frame%20Ethernet#CRC)>>>>
+endobj
+16 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 583.66998 160.750015 597.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Protocollo%20ARP)>>>>
+endobj
+17 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 566.41998 301 579.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Accesso%20al%20mezzo%20trasmissivo%20CSMA/CD)>>>>
+endobj
+18 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 549.91998 166.750015 563.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Accesso%20al%20mezzo%20trasmissivo%20CSMA/CD#Carrier%20Sense)>>>>
+endobj
+19 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 532.66998 178.75002 546.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Accesso%20al%20mezzo%20trasmissivo%20CSMA/CD#Multiple%20Access)>>>>
+endobj
+20 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 515.41998 193.00002 528.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Ethernet#Accesso%20al%20mezzo%20trasmissivo%20CSMA/CD#Collision%20Detection)>>>>
+endobj
+21 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 496.66998 169.00002 510.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Dispositivi%20di%20rete)>>>>
+endobj
+22 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 480.16998 102.25 493.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Dispositivi%20di%20rete#Hub)>>>>
+endobj
+23 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 462.91998 119.5 476.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Dispositivi%20di%20rete#Switch)>>>>
+endobj
+24 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 446.41998 194.50002 459.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Dispositivi%20di%20rete#Switch#Filtraggio%20e%20inoltro)>>>>
+endobj
+25 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 427.66998 116.5 441.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Dispositivi%20di%20rete#Bridge)>>>>
+endobj
+26 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 409.66998 184.75002 423.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Affidabilit%C3%A0%20delle%20LAN)>>>>
+endobj
+27 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 393.16998 208.00002 406.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Affidabilit%C3%A0%20delle%20LAN#Spanning%20Tree%20Protocol)>>>>
+endobj
+28 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 375.16998 257.5 388.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Organizzazione%20interna%20di%20Internet)>>>>
+endobj
+29 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 358.66998 219.25002 372.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Organizzazione%20interna%20di%20Internet#Infrastruttura%20di%20Internet)>>>>
+endobj
+30 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 342.16998 196.75002 355.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Organizzazione%20interna%20di%20Internet#Infrastruttura%20di%20Internet#Autonomus%20System)>>>>
+endobj
+31 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 324.91998 202.75002 338.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Organizzazione%20interna%20di%20Internet#Infrastruttura%20di%20Internet#Collegamenti%20utenze)>>>>
+endobj
+32 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.5 308.41992 181.75002 321.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Organizzazione%20interna%20di%20Internet#Infrastruttura%20di%20Internet#Collegamenti%20utenze#Protocollo%20PPP)>>>>
+endobj
+33 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [115 291.91992 258.25 305.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/1.%20Livello%20Host%20to%20Network.md#Organizzazione%20interna%20di%20Internet#Infrastruttura%20di%20Internet#Collegamenti%20utenze#Protocollo%20PPP#Orientato%20alla%20conenssione)>>>>
+endobj
+34 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 270.16992 163.000015 283.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md)>>>>
+endobj
+35 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 253.66992 107.5 267.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Router)>>>>
+endobj
+36 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 237.16992 156.250015 250.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Router#IP%20forwarding)>>>>
+endobj
+37 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 219.16992 130 232.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP)>>>>
+endobj
+38 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 202.66992 212.50002 216.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP#Classi%20di%20indirizzamento)>>>>
+endobj
+39 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 185.41992 172.00002 198.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP#Indirizzi%20speciali)>>>>
+endobj
+40 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 168.91992 208.75002 182.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP#Indirizzi%20speciali#Indirizzi%20non%20routable)>>>>
+endobj
+41 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 150.919922 140.5 164.419922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP#Subnetting)>>>>
+endobj
+42 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 133.669922 252.25002 147.169922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP#Gestione%20degli%20indirizzi%20pubblici)>>>>
+endobj
+43 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 116.419922 121 129.919922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Indirizzi%20IP#Natting)>>>>
+endobj
+44 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 98.419922 153.250015 111.919922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Datagramma%20IP)>>>>
+endobj
+45 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 81.169922 133.75 94.669922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Datagramma%20IP#Header%20IP)>>>>
+endobj
+46 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 64.669922 325.75 78.169922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Datagramma%20IP#Header%20IP#Campi%20della%20frammentazione%20del%20pacchetto)>>>>
+endobj
+47 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 45.919922 140.5 59.419922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Routing%20e%20AS)>>>>
+endobj
+48 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 28.669922 181.75002 42.169922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Protocolli%20di%20Routing)>>>>
+endobj
+49 0 obj
+<</Filter /FlateDecode
+/Length 11525>> stream
+xœí}ÝŽ-½måýyŠ}=@:¥	°;×	> àgÀLòþ@DýK¢*ÝµÑ9öÄþ‚$}Ví*I$µŠ¢(Ö‡u¥ý÷ºêÿüÍü3{óQL)ùõû?þø?Œ‰±þ—ìþ´6\/gSþ06Ø×¿ýïÿü?^ÿ·þÜp]—m–S[ø9Û×G4!½>R°åõOÿðÒà¿ýË¿ý÷ú—ÿáÂËÇðúãç?Z§#Ù™`â‹0C´/Ÿ>L¸¼I„å«Dú]úð!¦Ë½~OwÇl³M„¦hK.ôËpYSÛöùãrÎyO˜)Å@Øø«ÝÝ®8nqn>¦bíÑŽ°Ñ`ÅZ',Ýìf×*:ºëìa}X«­ºÃ~˜˜}Z®šìKHŸb>‚w6§µ=Sœ®Ë`Ï®R•p ×GrÖ:³Žôúð%å+£L®g’¡»Ev×‡)Wýs•òõqEçé™¬[ú2êíêZýýåê4<%ôAl/ôA—ÞÞìYèƒnC#ð}ÐËXýü«Ý=„âÛ-æ¢óóÉSÈ…°Ö‡Ø…<ÕágoAm~hÓwmN]ûƒÜ'fƒ-ˆI_Ø¹Çb¯82±l‘Ì ‘•Ì”ªÌ*‘?Î¾©§0µø~üáÇÇ•|à¹lë=4µX§¶¯à^¦¸{9Sÿ"FùÃ_ÿòãoç_Æ¿~ùÃÓ©ª*¢þØ¼~ùãÿYÕâÿîõË¿þÈ¿ñ×/ÿëEÌÍ…ËµñÃ’¥Ììïnîð¿iH4\¹ÊÝùîÂïnu{!ØÇãøõÍ·
+ñîBºiã¶ñÛ;žÃÝiðVº÷ÿª]0uÒ-×ºÂÍ³üoÛ…ßþòàÍU)<æöÊö® q€òŽ¥15@Þc.ò®hcdïtÉi@…Ú_¦ß<È»¢tKò@Þò®¿A„¼+:©€É›0úÏöÙŸZ{L
+p•ÉžÂ4³´Ç„=câ‚0Å-c\(2aÂÑ1µ.Bfu8­5ßUZoÀ‹4äDS±ÁÖ’+ô+Ñˆ…Æcl£õ8ÆŠ1¡‹4*Úo¡U¨=Å[±Ö!Þ¡ˆŠÎ7++,Æ®Ç»‡–c„w8ÜÇ³´À¦}a”.³­.cc£)ˆñIÉAÊlÑg­¡2Õ÷ìE¯Wý£ØEþó÷ýÖ÷ÔýËåîž¿Àó¢¿{UÜSì-Þv÷3¶~D¤Ñ½ÊÕˆ4Ú©Ó
+4­·M÷!¿Šévê	#+©¶Q±j§±yRÆTQ²Ó:’Š£«ê%;uŽ°ažÅ
+½D;X¥ØÉCÑLV)ýÑ4_Fƒ…°Ö	²·È]+£»õîkÎ±b'WFg!Fª‰)WC™Æ-O©X›ai¯¢4[¤[!Ï)%Ý¯M>›–qV´ùÍ$R±1›ErÔ†2®(1=“‡’Ö©ëjSq¹Ú†LWçSrrôÜž%¬Ùöö¨gõq¹YºŸóäJhÎÂ7"’Ì÷¹e¯ˆ7gá9QDÎLú¬°œ»ëÿozZ&˜e÷±Á`bZÒ¶@é¯˜*ŽLŒZd0?MA9²ÉSf“H~™uCCsN>¥Òjv%½Œ­C½ŠKŸ)ý:2ué±‡ëžÞñÜ!÷¿zº~¸åþ{÷únÏ	ûù:ÈÞuwxêO]bcüæ2XAÞãÆ„9Uä•O 3¸R‚âMƒ½ÄÝ ðà¬œã°êä)ÎL²â<øX<§‚ƒlêÑCÆëì™á“Ø‰[[e{È~!Ž…]ÈuÜÓÙD±GŠÂdçu<û¹¨$wR§êF™’@Uð“\“@ˆK«®I ùÅg&ØºØä&C±M Ý—æQÛÎû~ñœ	®w¥‚Ñ"Û‹d•»=yÏ+÷ÙV³]èv,Åjz´ã{–*}«ÆqÂ™À\áÁ¼BAÃ¥ä“ú
+«÷±?ml{c–/9ÔÆ”éQÿEx»ÆÅÍÝ%Dù»Æu³º"8¼<^‚‡C!ÞqÃ°À Lû¼„ÎÅ{&*¯—@êJJ‹ÛK°ò{HBÝa2®,ž/\ž$ÎÙÒêpâ {âêÁ@Ä+\Æ,¤ˆGü_£8À‹ÌÅwýˆ“šl*Œ›Lˆò‚Ú&g­øÁÓÏþ…CñS8l/¼"ò›;LÈ "y'ê)rV×±q~jØ/>q» FâµW<ÛÙÜbèX©×Žñ2J´}–ˆ¸Æ ;q9ãìÚAíñ<~ÃE6¾º×õåþ5Ùø··Aë[êºóªïãß·1ÒÛ;þþŽo/<_wÁÞ[ÖÆ÷È™¦ÀJÎdýŠœÉú9WðDÎÖä\m]‘sÅä\Qº)&$çú§&çú'G[aÞÕ?©ÛU805	DrŽv%g¹³_žL­NJ‘îóÈ@€¥pÌÀh, g‘#3Ê(Uôä+š$6M/ä\MÎõOMÎõÏ9×?59SUÕÄ`Ø¤?¯¼’s…ÉÌ‰É¹"šœ+x"ç
+kr®Þ5ÒJÎ!!9Ã½bPØŸôI¬Tz£Û‰ 9‹ì€œQÎ0ûD'ë<rÚ}NÎ‘¼`Sø™ëÚ~ì'7ßíÞêm”ø–ìn=Ñ¿äøq5N“M#íÄKnBÈÎÝ+ñŠ»š^ßü!l,¸	£e±Oâõ6¡)¶{ÇbÛd7=ñZ›°ög¿wÌƒ
+63¥Àó¥bÍÊ	›‹ÂŠµ>ÐÍanJÚz[klJ5ˆK=‹¦BòÓÔá²›sžÂ+¿¥=^$BÏx5	#à…ç2TËÌ&B±LÒMtÕ›l9„Üon¼êPæ 5;”ZoY.·a¿ð1WöÒÞÕ‡Ýäž]`^0‚T:õâX+ÖþìwO©T”nzð*ÔhÅ\1êÅóTHE¹¾@q©¦Ò5:ôM¸„Ü)¦ƒmˆ‘IoØ¹Ïb³88±nÌÌ,Ì+VA<¨*±&Ÿqq®<Ÿ›¼?ááöÃ8ãÈ·Qá[¾Mìxƒ ÃwÇ¤ŸR¡½üF…„´W>P¡½Fh”KØœ¥lŽéÌÖb¯X»"ŒþÈ…¶{€	£gƒ=D}ˆJ½õB…*´WZ¨.óÌƒ§ð]ÚãÙ,ã9ýgvXÊ<"a¾Ñ13¡Œ™Â@æ 4;tŠLHÈÎ„örŠ		ÓLHèÎ„öÃ^ÆjLHèÆ„íLH˜fBBw&¬ØT¨E&l8ØƒUL¸´&fw&”>ƒÅÚ‚`8Å„‹`aZ9Å„ ªÄš|Ì„Ö˜WˆuÐŸº¥ôë«ü7ŒG=fC›v6¬™’!mW†ËÔoÅh”W6¬hÛ=A6´E³aÅ4Vî	È†ÛÙ°BÚ1$tgÃ‘T;ÙÐ]+Êe™}ò™§ØžÌhî˜Ì{é¿0T¸DD"œ#¢vB!‰:ŒÖš:]Ø°"ŠmÔlX±VT±¡š+v`ÃŠ¶-¤ÃŠÑÃW1‡VTÑ¡C£6,thÒ¡Ü	¦Nt(½SäNƒÍ†Š `t¥e¾tÑÆ•‡Âk€Â‡C—ÏùFQ¾’±Õ~l?Ë2¸§ªO²3RØ—ª„ìŒÚÚÈ-oœÐQ»úr+ #…¾,3¨ÝàŒúJÏ##…¶"ì‹iWÁ´à%…e­jÃºV…Ë2ä)2W°=™UÒ3™}2™§8T™Ñ"™ù"<á³°‰(Äh½Ù¡Õ…“‚^«ÚpÍé í]2q g×œb2_4'ù¾œ3+'ù¶î«ÖÒó}yhQÎþ´X%Tq’‹Uë—ÅjÃÅ"¼^¬.mˆ•IoØ¥Óbµ8<±oÌƒKsŠæÖ¥9)Àjuêò9'…ú¿éÃöÛ¹`µ·”t»ü¼Ý½é$%µdL‡%c×óê%¥Ó’q¨yq’ÒaÉ8ÿ\()–ŒI/GÊÊH³·ÀHdOÍpÓ¶Xì³cÚ¼Ü)³Ûy”ô21–‰88™Âé°Lq	)¤Ó2Q`Š²C	ñF$¡1ê…„Æ¨ýJBcÔ	a›e¬öDBI/Ç³®OÇeâì/rPšËÄ´.Ó²L”;ÁZzaå éXŸ^&âàÀžY`÷NS
+¦’Ó$ªJ¬Éç”é½Ü\}…„/ïN¹»€Ö›Û«UòÛö*!Ý„e§Û0uÙ\%l¾˜eo•PÒ§‡­Uwµ"}wiìDF:ÜY%°{²·Ey	¶Á£^¸e[•Pê¯…]Õ†ÕÿÆ–›»Ì²©*—eÓN#û{ØàØ”~Én¡ô_6q ²)"‘íTì¦¢eTÔ!{¥¢¶¦¯¼m¥ÒÍ“†ÙËF*asI&û¨„ö©$C¨ÝSNKØœœ"BÛ,¢£÷‰.&lÒŽè‚ÐN¢³vº‡”ÙÏkŠ®Û¶¸•í“î°!rÅ`qhbÚ"Ù8aÉ¾)Š§ÕTÀ:ýº¢xv¾±iê®Ê6:û|=Ö~íÞŽÖß§ƒ?>¥èoH>ÖçQÏÛŒì;*B|JÅÎšŠ	Ù©¸šàØ¦*&LS1¡ŠŠ­ÓTle/Q¨ØºáCÛ¾9‰LleeLlfbë&¶~eb¾LÌ&†'Ïnsïˆa˜@Ä,!bœ1ŠXT”!L+JkÚ2²±³—"bÂ¦§"DL(qæ³8S¦‰˜P$bú÷NÄ„i"&t'âŠ]š²q» Æ ·ŠÙ@#`_Ü1ÃÙc0W6AˆX„%DŒbÅIu)"EñÜ|‡ˆ-9UŽ_É^¡¥ñðÿîHç–#ï/ÜævÜÒíc¾%ÏÛ5ó-AßËyž…ó32!ï_sÏóŒnå~?ôÛ0écå>¯ÀðÆ»ôvYs{áy¢©¹ëÖmëö½,'çÝ§!dÓ8:a³ÅiÓ±cBû{G¶Î‡ñ~’%0asIÁKe÷Ø1a}"koÂæRFVé„öW-/ãÔÞÈmñë|\â5p™£ðŽ',íqäzÆ
+‡2–¡rÐ„ÂÁ‡Q1sÀbŠ³C¯·!dÛÔÿ£â6„é-B÷¸£P[Ü†0·!t¶nÓB÷À£Ì†®Sƒ›†ƒI¸YÚ 33{à:fk‘L«"7‹harY¹e%ÖåãÈ×WÏÐ¯}þ,rsOû·K«ÇûøßxBõ–‘ïÛ¸Ë`¸åä÷x7Æwc;åã3ònlÇ\D#Šýä[y7&Í»1kÞùÀ»1kÞYónÌ‡=;BwÞyáÝXVÞ•Ë2ÉûS|A:ím¼+=‚‘áP…´D(Bn"<¡A³¦(Äg‡^ÞQónšwc8ÄË	íþ?ÁkÞþÄ»Ñïñr‚íF¢Ýè5íF?UêÚiWîÛñ'Ú•Þˆ1ú=^¾ÌÛkÖqÁ„	‡x9¨ T•X“ÏY7õ3³_Ë#pižÄºwÃã2aŸmç=ÈI¸O=?8ðg°"|LÔ¹ìD‹&êri¢.×‰¨Ë¥‰ºMÔÅˆºMÔÅh¢.æä £ˆº˜…¨‹]‰Z.-ÈS„@°=¡é™0’Œ@¸‡*,'B6á	o1o²(Äg‡^¢Îý¬OA¢ÎýPPÆs>9È9k9'MÔ9ˆ:'í ç~"Ê  s’]GQINš©óÔiNSç„L-wŠñ`bfÒ¶Fé´˜-O\!A&SE+“K”ÊJ¬ËçTÝÎßÚ¯¥W¸â?ó¿1Èÿ<*rÇíöÆóÒa·‰%ÏÏ„Ý¾ÔW™|{äO+ÑxU‰ÆÏÒ%PˆÆ›™T!õ2ü(‡Òê¹pi?*§`u`ßK¬Øå:ü(Æ2Š;ŽÊ~ÔmÁ4¾xI	j…øQf™EdGÙ¬ÏèG}™Ôë’ø­ü\æÊ&ð.‚²4ÈõR k\X†À5X–ÁÎj- ®êÒã0‹œ¹4 hÄ4ç‡b±æŒŸEK^ø˜™cJ6vmæmÀfzUAP(vð*
+ÏúE1K
+
+*d&« âìÔèZiÆ/•fàV0hÌŒ»æÈÝÃ…‚‰³(`*°Ä`ÒÈœ^¬…|ÐVae>®0ÓÇ}±Îý\jÌ<O¾%¹ÇÈÞx!<'ÒÛ
+ÆwwÜo§<–Õý¾ÅããwŸ½žîw{UvÇ»­9ïfÔ@ö»½“ø‚ìwûQ+ÆÀ~·ï5el„Dï²N=ò.«Ô#ï²J=ò.6¼½ËjÃÛ»ŒÞ~+¶#—e—U#û±ØàØ¶•~ÉÖ®ô_6q ²],"‘oìx£e«ZÔ![Ú¢¶¦¯½ÄŽwQíx{ÔŽ·wá°ãíGL=òÎ«oïüaÇÛ÷5‰Ë7xçÕ–·w^Aexµåíga¿ÖñKa¸GAóû–·tMÖö¼E²ç-â’=o,N¬ ö¼EU<?ßØóöÞ}5é±ýšËéÜU¿uwÃ{Ì£jÊøY‰™§—,Y’}¯n²&ÚøQ%!ñŒz)XÉÏÒ*ñŒ",˜hã£ÑÄÍ!çÑG£‰'š…x¶B2rl³œ“‡û3Œûs
+³–EÄÃ¢âa°2€XXi¤-U=Æú#yg*±È;£¦‰Yy'dÍ;!iÞ	éÄ;!m¼f $$X ºIóÎ¬ã·š1~©·ŠÝ@#`aÜ1Dî2X,l›Å ¼ÃâÞ	ùô(*X§_WÏÎwx'¶Ê‰_c.s»ÑuÿAƒ7œÃ[?ó×oEV½*°â{©Ž%²ê{I%²ê{í-²êG•‘Uß«‰Ø!*?êŽ,‘UŸõ±5ß™,‘UŸOÇÖ|v{dÕg‡‘U¿•XËÆƒ§pÀoiêp:Y…p°q*‡%A(¾áq s3‡DA!æ 8;ôŠ‘U?
+w¸>æS¼˜Å°k=Î@dÕ÷â"ëÉø^†Ää%²ê“>·æSQ{`þXdÅ§¢"«~Yñk‘¿Y;ÅxŽEV 7lIŸ[[†Å‡Y0X`0e@´0¹X	ñ ¬Äº|YõT@…¼À/m‚y.µr[òê>_àñØó¬¶û’Ýky¿‘øxŸí¾ñÛô†ç¥dK÷ÃÍ•{Âµ/±	Ù—ØáÒKlÂô›Ð=¥<\Y¥”¦–ØîKlÂvO—0½Ä&t÷t&žn¸Ö%¶\ïj<ÆcÁÄÙ 8º³[]é¾88NqE"âèŠäÄÑE‹‹*ÚWV´ÖÔµ¯°	ÙWØáÒ+lÂô
+›Ð=§¼Ê\yº„iO—PÌ)§ïlÂ´£KèîèVlêr]`·`z ©6÷íõ´¾!ˆŸ+Â?ÅŠ³J¯¯EQ<9ßðsƒéŸ¬ûZ¹Ú`x}}[ëy¢Ùm ò–ÔßÒ,u×¶kDHŸÖÎ¨]#Âô®¡û®QpãË+|'l.a%LOè¾kDXç
+	ü¦wÝwVÿó}!8·ìÁeÞ¤€ÇðvÆÒ o|@×xƒ†À[)Ë`çžH…·f@z¼‰³È™·{@#î 9?‹»F„ì»FÁµkDØtÇ k¶¬ßö
+¶s~¢€0úsýB¡@r6Ú ÛF¤ýãY¢›Õ–QÅ†:›»
+Ú¶¶ŒàV±lDlLº#¶È½£Åá‰y‹ dLiÉtR]÷‹@þù §Âj|¼_¨†#Õ¢øÚ~QpáÓ£1åŽÅn/<§·ÛÆï¸õ¹ïý<ºð«Ç¹÷ü¾¯j¾‘ãöS¾ŠC¯Þ`w¿8Xí§À„Û­nqhÍø}³ºDT;O„Ùñ©öFBûhì•Ñ+~ð6¸7Áâ¿„*¯8øñÎèžT«WÌ—ÁãÇ€ÓNßŽûþ÷<E'¸”,ðŠYpà‹„Á›eU€×Ë*kº²»SúwÑ'íóÁ¾ OÌ!úKhuózÇx íÃÅÝ£æ‘^X@™´!'ÏNq¸´S®“S.í‡kªòZbº ¶pi§Aûº”SÌ]Fs•Á¡aO1€WÌâ¯‹sjª`{MS<3ßqŠÕÛ_<ñ*!|þ½Mê}ü5ÉûÚŽÏ«AÞù×÷9n?äö¼ ïcFÿÿ³žÀãEJŠû"%E½HI}aŸ©'l8g©9~Ùâ%õ˜z{)O–¯0åAÇà=¦¬W()ŸV()ëJÊË
+¥nÁ×•ËâËcÄ{ÆÅÏ–®‰;.CÇÆÊ>‹D"9Y.€ˆe]!ºpù¡Òey’ú˜qu’Â 3l.œV')‚„îûÁ£8LÏŒ‹ñƒ›Qp^/P’D@P^/PkÓ¯”n$l^/P°01¯(Òm°Y 7‹&KfÈæk!keVåó%J¦ry¡ùuŸ¯P2Fyþ½óÛ¨ÉãwÍwÖø½mü“ªÀß‘FýS"÷ó«ßø´Æãï~c’ßójÓ?E$ßüý¾ j˜…^k]Íj˜…c³p¨a{Á®%Ÿ'ŽÒ^K>Oì5ÀðÃ}±—
+Ãº9ñXÁ,*˜ÅËtç?nµËèß²nˆ‡ªeQW-ã®Èb…;,«˜¬D°€;Ô,ÇšeáP³LÔÔô³×,£®àzÅ¬uw,YF®eWãP²,Œº^ëGùÂV²,J–…QMl[ÀJ–…Y²,l%ËÂR²,J–a#°€Ó%Ë‚.Y†CƒõÛ¡d™ÖoÇ’e¢€u¶ñúíÝŠeñêŸ3¡÷ùÓõ[äŠeoÔ¿~gÅ–ç;¼Ó®ï/<¦ê¿¾¤þk_R-©îÚ2¶Ù3¶¢5c]"é'„Œä©¸…vîØHæaª¨/{Âa}%&97„é£°„n	[j‹À–Ü­[¶à2gÁS8hi3Ž gœ™#à¦e¨œíBá¬(çO¡”9Ñ
+Ôaj³C«˜¯EÈ^² š2HÚ3íEbÂ’¯Eè^² š¬NÂ¦óµí+.ži¯Ä+£œl2FLVùZÑŒÒñ±7Å
+ïßS›!wŠí`beÒ6Fé´X-Oì[!ó@&E+SK”ÊJ¬ËÇùZ±}Ê6~á³Xšüdë÷ÀãµÕýÏË(Ü¾ŸW–	¿ù¶×ì={_ï±·*õ{Å¨•½Ge©…½¥¾â¡ÔWìU­Vúõ¯Vúî…²,²w¯§…%Ùã±ÐWÔ…¾â¨ä5É{+ô—…*…¾–ö„~¸cÂRÜ}¡3¦ŸDòPæk±®(Ã”f‡Nî•£º{©•º{)ªº{ÑªŒŸ­‰½¸UËXÍ‰ºGÁ¬…º{]­•ºG®µˆA<TùŠ³ÊW\«|Å¥ÊW<TùZÚ 3Šº¥Ó`±æDÝ"˜,0˜-öDÝ¢„¨u•X“Ï™;\•¥ýW6è×ŸùúÎ"·»0Ïƒ…o”Î|î{??‚ú}uî»{ª|#Ž–RA¤ú"("CjœR.6X*†Ô¸§\lÚf¹xT°o€—‹çJLc£¼\<«*6ö?ÊˆÂ¸ö’\æ´
+u_9÷ ™mÅ&1çÂ_I¯h§ðœùsê1ª§Z"¯þ!°Ü÷¯&;ÉSz´ Ûµ½ÔÃNÒ­Èq'é}œû0ÌÇ>‰ˆ#÷ G5-[ná‡ÒÍ‘?œÍjÈA«+Ç¡ÍzËr¹Ñ
+>Åö‘Æ<ïC`§üà3è»´‡ctL(7¨”EæFˆ%ë˜˜QnP8¨ÊMº®BÖ°{¡ð`-Ð†˜ÕìZßì1š©ŒzJ
+gˆˆçÒÿ:çš–xF>%sÕ§ÐW¿V$¿ÿüúk•üÇýŸ]xDÀæªV’û'$ÍåÙrsº}[0æùÙBGP“Àé*<"þw¯’Ài¶¹â!pZx.“¡s!—Ž0—ës&7°“-ž8É‘àùÏíC>6ƒœ“5—A¸Ö‘—«ÝeÙÅƒöáQ†™ciÖt†þ]ÌC0’‹]VôÅÎ-È§çÑlIöÔ#šØ‹Ô{–q k¨”“*¯¡ëÊËõ6ó—çÄÁK›‘Édé_¼³Œ$‚Z˜Ë…A{"Ç0ãEàitQNŒ»¨1Lç04Ì&^‹™Èí`RØ˜ŸtUz6#û©ÀLùÁ¬BYÃ½øƒë÷!w“ÎÉÂŠiéÃŸlôŸÛ÷7çŸWÛ}î<?þ¶ÜÏ¨Åáù~Áã·Ö‘ùÇˆF=¸w®®“MÏ)s~n³Ò©ÑñKfæ1¹1cÃ&Û:?·øí.³ós+0™Y
+Æù¹iHØÅ8?úö·‚s3å‡°þúpnF«½hE
+œ›iD„ö7’³sç³aíÕEçQê?)«ÌÙ¹c
+—;w&‡4›ÖMOŽ2ØµÎÛGpMO|êxdÊ5Ó·@xýCŸLE1_s± 
+Ÿ{n¿dÅ]C¯¿ÿ±^nŒˆO™)MØž$?aÏfšŽ`¦SáX%ñ
+„23´Pv3“kJ¹4l¾aP3;õÆ
+õ]¡¬ïf'l|+Ø4VÆÝcä^ƒÕÂðÀ¾Y0X`0c@´0·X	Ëìº
+¬Ég/¯¶1ä¾z¾»ýzæ•™»3&æy-Ê»“oT1û¾#o,;ÞÝ¾=¼PoË}Üsþ­ËðÛçœßª·ç-˜=8¹¢òˆ	«ó(ø%‘˜ÐN[’k™ü5èM²2	S™Äîg	Û3‰	›,©£„v²–äÒ†Î$N-.-I©p™“Wá1œæº4È	±Ð5Nœ…!pŠ-Žu¦â‚L8cdÇ¹½‹”9ôázóC­˜KLÈ~Ô1¹ù1@l0’‰	í{ž27“z`¤NÒ@&.ªdbÂúR¤ì$ñôá¢J&®ØP¨‹K2q» !·Ší`#beÒ±Fé¶˜-P\D%S&’‰Aù ­ÂÊ|œMLh•ÍWª¢µ_ó'oOmßÒÒ7ÆÕß+°–âµed¦x©ŒÌÊÈL‘Ó0$!3õÌ·å|]ê™oËùº4þÄ|ÌÔoYÎ×¥83J$Ñ.E{ÈÈLÑªŒÌg6Keê·p²Ÿ\–¤@yŒ¤bƒ#ËPú%™ˆÒÉY„qJr£DÒ3Ep’ž	–¼JQ…¤_ŠÊš®®-;3!Cvf
+Eeg¦ É’™Úˆ×óu©z9_—‚$‚€LÂL™‚3­äÛûÐ ‰Ù[HÏ¬ØPeÈKzf» ¶ ·ŠÕŒ®é™£;˜ž)]s…Áa³$?SÄ%ù™C°Ûù:QÁ:÷f~æÔããüÌT:_üRûuø,?ó60|C¸MÜ|ì ý'µÝ¦éy*äg§ûûy/­Nˆò³.­N˜:F rsÔncŽ·1Gu 0å6æSauB•Û˜ãâ6æµ°:\7E#M>V‡®‰‹$Cg
+ÆÊN—ÈD|3‘xq dq÷².«ZóC©‹×˜ý~-e§N vp³ÛO ¥lÕ	4Âô	4B•Ó˜­v³eÎEmèªê)Û©Îµªz» ö «ªFv§±wg9Ý£…‚y³(`°Ä`¾¸“Ó(ZÈZY…UùÜg,-Wç+¤K¿Îåý¤øç$ö8^þÆ	´ïK&ó£ÜYUPË£—O6÷š]6'›{u¯àW6_I¹²ùÒEÊó••+›Ô2W*§$_÷%_3|*N¾2º²y+ &—ÅšOk¶gÄ“Í‡jùP@†)Ž ÈC<Y‘›x²CÂ«'+ªWUTÖtµ—OË£*×Ÿ”'›/‰Š'›ÕÓò¡zZ%ÆÖsFy«ž–ÕÓò±zZ>TOË+r­ž–—êiùP=-«§e]=-ëêi84´j]=-ª§M±®çŒDëÌ›~l~·xZ¦£¼É¶uø'‡zÛ¯Í§ßõ|¼IöÛQ?ã|ÎnìŸçËäOšùfÏl÷Rõ„ì‘”ì®‚„÷»Nï×
+®§ˆï×
+³\›VÿŒ~y¹VëN¤
+E¸V>âéVÂ/ gôÈ™åäÖZõrˆ	N&å~Ûrÿ—a Àà,x±èàB†·«^2¬6Ò—Ý‹Õ²¿ƒlÖï {ªUOèM©t«¢)„éh
+¡K4…€=šBØá%du­úlG9Öl×Zõí‚XƒÕµêG#mù ÆÝCä.ƒÅÂàÀ¶YðbqÁ[óŠU°Î?~Ù7KÕg_Æ¤¯†S²óñžýó¯>=ÿJÞ}ªÏóÜ™ß<çûêç°ö'd?h”ƒUSÇD	ìqä,F½„=Ú h¸á|¸ƒ°‘3 „uR•Ó"„Mî•s%„v–æƒ'*|Î(‡µª?\æs-ð>³´Çge g|¦FÀ§op¤|LG$Â§y@p|î%Ì„@æ 2;4ŠÇŒÙŽåp©cF„éŠþ„îÇŒêê˜aú˜¡û1#ÂöŠþ„écF„îÇŒÚgD›>ýRÑ¿áb^Wô_Úóª¢?tZ,ÖŸ*úƒ `
+°À`®œ*úƒ¢ÖUbM>>f”ë«Ä÷µO¥æÿÊõÏO®>Ny#Wÿù¾êór±Ÿ{¼~Ha_?¤ ×)êõCŠz'–ÀN‹àb¥~@}±”tô*%µK˜Z<¤tZ<¤¤)-‹‡”×Å_‡•®-48=`î¸ÉÜp¨eœàyOyÀÒÅK‘/øü¬X°Âš¦Â¾rHA­’×+‡äû°„ª•CrzåÜiåÜ¶rHN¯’;­’Ó+‡ä¦&Ýºr `
+N¯ 4/§VÜe´VwZ9°`åÀâ‚•g”×+‡©)ž—ï¬Úñ—ùú´Îé'×û–ÌìÇ5l~ÎÞi;·Ë‡âa¹MÇâaùP<¬Š‡•Sñ°r]*Â_®KEøË±|X9”k˜pdÙŠˆÉe™šåPJl6X„#‹.%&Ýæ(ÇZbåPK,j‰åc-1ÑÐ ÖËª–XÖµÄò(eå%{Ñ«%{y¬Nß“%{­Î±“%{Á­%KÜX²DÍ’½Î×–­’ÅÄò,&–·bby)&–ÅÄò±˜XÖÅÄ¤ËÀ’08`I°ä×Â’%â+¬‚uú1K¾[M¬\áUWA_)ÝÙ~ÍÕÄ>ù|É·Ô&ù“É|^øÿV$?`ðß‹áùJçö(ñã×òkŠÛp×'²§/ÙbÍö’%dÉkU>(aú%K¨zÉZ§_²Ö^²Ö©…aê%kÝé%k~ÉZ·¼d­__²|^²üxÉBƒó%Ëý‚·,÷Þ²0PxË²Hä-+¢“·ìòò’mÈ[T´ÖÔe¶—,!ÛK¶ØK-EÓ/YB÷¥H1E-E£÷]^²„Ö›"ï¤°¿d	Ó/YB÷—lÅ†.MY^²í‚ƒÜ*fcÊá%+Ý;ä.ƒÁÂàÀ´Yò’qÉK‹ÓêRKÖOÎw^²äü]_9ÆÔ~<ÃZ÷gvž‚ýÓ.¨&…[ê%!{êeñsY/©d„é#;„î¹—Å§½ö?As×RòÝíû›’GXeHaúÈ¡-³G’ñT%;>gU|^R/á2'ûÉS8+p6g–ÌËÙ1™—0 ÎH\†:SE$œà’ãTÈEÆœ4	Úp­ù¡TL½$dK½,ÞßÛ“X öÌï©—Å;•zI˜>¯Cèöq2‚öÚÿ„éã:„î™—­Ç]›nÉ¼lÀœÊ¼\s*óRz&ÃÛv*ñä³Å/AY«ª°"'^Òg}e’}-ó²„f±¿öFðøÎ#£€ñ}ÁÇû¤˜Ç‡ÿ¿;)³z†»;³JÊ¬©¤LÂª1û¼º“±¨¨vI×Õ&HåÄªKÐ›L× 6pÒÅ$DêçÑ™LkÄ&m›tˆØÌ§€«ÍMˆ{n÷,&¸bSàJ²ØÀ•Œå#ª g‘UÖtµlÙ}É¨‹¿vð%cÒ¾dŒÚ—Œ§€¡KÀ† åKÆSÀ†PåKÆ°Ÿ4MGØÀ­b4Ð˜wG¬0ê€ìšÅ ¾dÔ›!Ø-`#*Xçû’ñÝ€Mý‹zñ…Ó‘í×°ùõãxÆ-­>ÜòíÏaÂT5Wöªâ„ìé"¥èªâ„Í‰*›å„îù"õ©{¾A{¾a{¾a{¾a:_„Ð-_¤A…óEªä—|¸Ì	
+ðNeXÚã¤è'GÀ8GÊù"NË ÁqÇ"bNõ e˜ƒÒìÐ)&Œ²%Œ”\†çíåSIqB{ðóˆÚÂHó©¤8¡{Âa{]ZÂtÂ¡{Â-ºBóRR¼ábY—m46“Þ°)f]R|žØ¶Bæ€LfK>•%D­«Äš|œ0Bß¬wWþJøºý:|š¤þ†x›V÷ÉèßøµÙç%©¾ñ; ï¸Ñ?£zØŸç‡º¾ÏžÇÕï_ÿ·sçöÂcßão¹¼ql Ü3{\ªAÝá–tãðÌe­ÝÀ¹J’eyƒ÷ïRVp–ç•¥~ÕÉà†îe¸Ÿn P5x?ÜÁÂÇƒë¿× þ€#ü(¡p«kœ
+{ÈQp–aÏH
+ˆ#B,JVM±oÑ*T‘;)ÓOmcÀªA[Äªb3)eiõ³jpâPÜx[.ƒv²^äFt{eOÈ±«ØO¡«ï±+YÍkôª_B[Ññ«µ)´AîZ+ ‹“€ƒÓ…%ˆS«I»´\¦¡d
+‹¨øq(ËÐ§Êõ…äÓþãëgÖù	ß?~ã3ô·_›o’±ªëÕ MÆn~#-ÆI
+Z—›Ù2h‡£Õb²§â^íœ~FˆpÎë{5xÛ-è˜lÔ›Šå0ÑùIÀ	Ç_ØA`
+°Ò¡ÌˆxNäœˆ2þý¸“&ýTõÊÄ‡b_L*>–ûjðVï«bQm 4Poh°¦âQdk¥b'ñ&ÔP/ÝåÂBÅ³ìWûk¥â¥ðÞf…M	J·ÀXe `×8X˜"œ,é@Å]ÚŠŠE3ù¤Ã"J~ƒ‹+üÅŽôŸ»¿”’óÒ#ÎÖïºúºùÇú?ÿï€"%
+endstream
+endobj
+51 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 798.91998 139 812.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Protocolli%20di%20Routing#Link%20State)>>>>
+endobj
+52 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 781.66998 217.75002 795.16998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Protocolli%20di%20Routing#Distance%20vector%20protocol)>>>>
+endobj
+53 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 764.41998 219.25002 777.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Protocolli%20di%20Routing#Protocollo%20RIP%20\(intra-AS\))>>>>
+endobj
+54 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 747.16998 166.750015 760.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Protocolli%20di%20Routing#Protocollo%20OSPF)>>>>
+endobj
+55 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 729.91998 160.750015 743.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/2.%20Livello%20Network.md#Protocolli%20di%20Routing#Protocollo%20BGP)>>>>
+endobj
+56 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 710.41998 169.75002 723.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md)>>>>
+endobj
+57 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 693.91998 150.25 707.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#Protocollo%20UDP)>>>>
+endobj
+58 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 677.41998 119.5 690.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#Protocollo%20UDP#Header)>>>>
+endobj
+59 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 659.41998 91.75 672.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP)>>>>
+endobj
+60 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 642.91998 148 656.41998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Funzionalit%C3%A0)>>>>
+endobj
+61 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 626.41998 174.25002 639.91998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Funzionalit%C3%A0#Non%20garantisce)>>>>
+endobj
+62 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 609.16992 169.75002 622.66998]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Funzionalit%C3%A0#Problematiche)>>>>
+endobj
+63 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 591.16992 159.250015 604.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Segmento%20TCP)>>>>
+endobj
+64 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 573.91992 354.25 587.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Instauramento%20e%20chiusura%20di%20una%20connessione%20TCP)>>>>
+endobj
+65 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 557.41992 212.50002 570.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Instauramento%20e%20chiusura%20di%20una%20connessione%20TCP#Three%20way%20Handshake)>>>>
+endobj
+66 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 540.16992 275.5 553.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Instauramento%20e%20chiusura%20di%20una%20connessione%20TCP#Chiusura%20della%20connessione%20Polite)>>>>
+endobj
+67 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 522.16992 287.5 535.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Instauramento%20e%20chiusura%20di%20una%20connessione%20TCP#Chiusura%20Unpolite%20della%20connessione)>>>>
+endobj
+68 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 504.16992 244.00002 517.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Affidabilit%C3%A0%20del%20protocollo%20TCP)>>>>
+endobj
+69 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 487.66992 198.25002 501.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Affidabilit%C3%A0%20del%20protocollo%20TCP#Stima%20del%20Time-out)>>>>
+endobj
+70 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 469.66992 222.25002 483.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo)>>>>
+endobj
+71 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 453.16992 174.25002 466.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Sliding%20Window)>>>>
+endobj
+72 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.5 436.66992 150.25 450.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Sliding%20Window#Mittente)>>>>
+endobj
+73 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.5 419.41992 169.00002 432.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Sliding%20Window#Destinatario)>>>>
+endobj
+74 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 401.41992 151.000015 414.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Go-back-N)>>>>
+endobj
+75 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 384.16992 224.50002 397.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Ritrasmissione%20Selettiva)>>>>
+endobj
+76 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 366.91992 218.50002 380.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Sliding%20Window%20nel%20TCP)>>>>
+endobj
+77 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 349.66992 194.50002 363.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Controllo%20di%20Flusso)>>>>
+endobj
+78 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 331.66992 240.25002 345.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Controllo%20della%20congestione)>>>>
+endobj
+79 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 314.41992 188.50002 327.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Soluzione%20del%20TCP)>>>>
+endobj
+80 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.5 297.91992 161.500015 311.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Soluzione%20del%20TCP#Slow%20start)>>>>
+endobj
+81 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.5 280.66992 205.00002 294.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/3.%20Livello%20trasporto.md#TCP#Prestazioni%20del%20protocollo#Soluzione%20del%20TCP#Algoritmo%20di%20Tahoe)>>>>
+endobj
+82 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 260.41992 105.25 273.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/4.%20ICMP.md)>>>>
+endobj
+83 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 243.16992 98.5 256.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md)>>>>
+endobj
+84 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 226.66992 137.5 240.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Architettura)>>>>
+endobj
+85 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 210.16992 196.75002 223.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Architettura#Classi%20di%20Nameserver)>>>>
+endobj
+86 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 193.66992 253.00002 207.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Architettura#Classi%20di%20Nameserver#Aggiornamento%20e%20consistenza)>>>>
+endobj
+87 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 174.91992 194.50002 188.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Tipi%20di%20Resurce%20Record)>>>>
+endobj
+88 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 156.919922 173.50002 170.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Local%20Name%20server)>>>>
+endobj
+89 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 139.669922 326.5 153.169922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Meccanismo%20distribuito%20di%20risoluzione%20dei%20nomi)>>>>
+endobj
+90 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 123.169922 151.000015 136.669922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Meccanismo%20distribuito%20di%20risoluzione%20dei%20nomi#Tipi%20di%20Query)>>>>
+endobj
+91 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 106.669922 135.25 120.169922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#Meccanismo%20distribuito%20di%20risoluzione%20dei%20nomi#Tipi%20di%20Query#Chacing)>>>>
+endobj
+92 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 87.919922 244.75002 101.419922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/5.%20DNS.md#DNSSEC%20Estensione%20di%20sicurezza)>>>>
+endobj
+93 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 69.919922 105.25 83.419922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md)>>>>
+endobj
+94 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 53.419922 139 66.919922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP)>>>>
+endobj
+95 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 36.919922 142 50.419922]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Get%20e%20Head)>>>>
+endobj
+96 0 obj
+<</Filter /FlateDecode
+/Length 11734>> stream
+xœí}]¯%;nÝ{ÿŠýÀíÒ·ÆŸ\ ?`’q``Äùÿ@D©$.J”Ï©='Ý×3÷`Ÿ^µ«J"©E‰¢Xß­+í¿×Uÿ÷wßáŸÙ›ïÅ”’_üó·ÿóÍ˜ø=Öÿ’}Ý&Ÿ_Ö†ëålÊßöõoÿóÛÿO¯ÿ]î¸®Ë¶ó¿à1çL4ß}ÈÞð=äl_ß£	éõ=[^ÿíŸ_;øoÿòíïÿÙ½þåÿ~‹îe®x}¯?‹ö{kvìPvÆÛ.†	4ßM¸l"0_%æÒAbð¯?Òb¶Ùº§Xÿ¦ßÖ{Lý«‚öûå\ÃlL)†ŽÑßýözÕùÖ›®üê)ùþe}|ò¯þÊXJkSB»¿5Ï›ûµÙõ§­ÁÄ«šÈ¯ÖßúoG7]ßMÌ>‰„ò=ûúPOªXðÎŽ–Œ—VØº„­ù{©ºñ¢LÎZ›D+êKÊ—ÙTÌ™d¢E!VÐ”ËvÕ°À+\{áûS‡rBRÔØõGý®wÉÔî;÷ÂGõî×^×ÚÖþ_¥¿–šØžÙú{g_º¼Ýî›Ü0EÔï‹Mè]’ýñÕÌQä½)¦t‘Oíôf»ðB=†©â»Š§„fRÓLøv0)xšßlØél<Z4t
+e“„â»‡ˆÚšþ€9üz¿}y-µ+Gò¿ý¯oúöýJ>Ì±oShT°•
+R³ÔôJŽdFôó§oÿøË·¿ÿCÅýë—?}3×Ì«ÿ2¼~ùó·ÿ\yèÿðúå_¿U±PcÑÝ/ÿãU/øß·¾Š‘ZÉ‚9ÝñO‡—kâwK#3åyÁÅÃ!îðþñ¹]ø§_ðjSCv¡Vh'ÔìB­ F¨&Sô‚Psh¦è„ýUpgÔ
+îŒZÁúüJ5hþ¬mñaaÔ
+oŒJ2jŽ£Îà˜OÂá/<0[‡t1ûÔÂ=FšÂAJbDJ‘#Nõ cNEvºR+´Sj¶
+¥VP£Ô
+ï”šÉ Ùo£Rj…J­ÈN©Ô(µÂ;¥f3ulJ¥Kh'ívŸ¥MµW9³Pjo–ñH©³ñÂ¤J©S(H©]|} LJí¢Þ(µ«e¡Ô©@ËoQj¹^¦Îé>Ã©u„Üœšsêá‘žOï¸òo‡òôQÇ—;ìéŽp¸ãÜ\÷ôQç—?nî¹çÇ;þðžÇª^}õXmË\‰Fº	è±¬#½þRx,‚·%@5õm	@Øæ°Ü›Ã"PqX¯«aà°Lã^à9þ0â|'¾t°,·È˜ûÄ=ŽŸ²uQú«[à1Iu+Gú+Vc×_\ýA›¿ª“Í›Á_8HüÁpE_üî¯TüÁÒ_²ù+Eðæ¯*8Uì¥¿j—ÐLü¾ÀW	óóÛ€/,ÚkþŠ…þŠÅþ
+E-†_Øý+Gò;þÊ˜z{¾¾Ç«¸ü±ÏªÿÝ>Ëý‡äÈÝ“/u^„ÃöäÆB<¾ãúÇ/[~Å~Òàqa®SÏOwWr×ïßtf¶lÎ¬B»3s×¾ü"PY~¼;3gvgV±Ý™U°zÍ„3«àîÌ*¨9³
+oÎŒ0tfÎ.Îlþ ér<	™^:)x¶™zöY{Œ`ÈÙ":38z ©ôUSMMÏÒ™Uhwf6ï‹/•ÅÁÛâËØ¤8³
+jÎ¬Â‹3«ÈîÌ*¨9³
+ïÎŒ,´«Ø¦Å™Ñ%0¾L
+^…æ7›v:EãŸBAg6Å‡ÎDÃoªe¨àÌn¿áÌ=Œ–—öë/S;ÿ›/;ù²ÓGâ>
+Ñ–7=ØÑ+´3zp
+£WPcô
+ïŒüÎèÛ½‚ûò¤‚ÛÊÁ£†ŒÂÂèóÈãIH/ðÒÉC³uHW³HmÜcdÁ!dô)Ddt8ÒðTöTc×ŸÝ½B;££,O*¨-O*¼/OÂ¥0z5F¯0ÝÇ„^¶¿TB¯ðNèáš¾B§Kh%—Bèð*a}×M›mö|©|>E‚|>…‡|‚ƒÏ(‹“©>Çoñy 0b}î?EèÕò#ôCsíqqò»ŸÐñ¶#SkáÏ?sž¢B}À»F[¡ÑH*758ßÍ,vpÐˆól’î”ã<o]·6nrží¼b7‹9?D;ß9×GNé`gF×˜+5Š¨à PçúˆLnlë,ZÂ-;ÛFu‹‘;Ëž`:58|RN9-/¥¡—êŠJ4°ÒÑ½»'m<[gdŸûÈ¿2J§3D»Åxu
+Í‹ÈóøöÔ©ž:kŠÌB‘×Ðô¿-? Ä—xTºIB¼6MBML÷dû’â½ŠÝ®à 4PEûlEYÁÎ’Cì¥ƒc5Tá¾—º¬ÿçVsŠ]ÍÓè˜
+ßf…¯äf±­rûÁª±«0 X,8T¦ qX°qNÅÈÁz«0°ŽŸ±·oö_o÷UPÎÆû¯ÝMÞæÄŸæÉ8“ÞóÍêç;?€¼¿0TsÞ9:úÌÇ+ùÌG.¥§±WOVòyZ)A‰|žöl¯‘ãóœ¹8øÍç¹ ¸s¡ÏsDÙëNÈñy>Ânzõ¹SßÑÎÄ>ÍM`Ÿø4?#ÐâÓ$
+‚›'ðqrIÃšËðÐ­ÿ¦l%'ÁBg¬€O
+“ÜÄKC'B'è;cZÑ?Ù{Ý‚ÝÙ xü$l£Ÿ«!s?èÇišôCÕõ.ùƒ>„GÕAuS¼–ÀAsÐD‚û„–»bJ¾g¾ÐiÏ‚€nj$a»AêŽI:(ˆà>¡UVðÖ2ýÕ´<]JiV5]
+ßÎV%^ÅÍb[åö³U‹®ò  ±ðPùñ°²æ!zÉš«ø™K‰Ý™>» è?¿-Žž“C;f#¼³  `]h¯‚¶@Nƒ{ ‡@%CðÈ±vä¶rÜBón¡y•@Ák §aÈ±v	äð V0Ÿa|éˆ?pë JÁý€ˆô‚S6Èa!B ÑVÄiX][ ‡ >—R9*‚·@ŽµJ ‡Àú·“qBE‡€-ŽCà˜ŸÝ\#­	µxM/qœv	äÚ³¢ðUÂøö8Îl»0çÙKaøJ‡Ea³zJ‡•Ç£ø0ŽµÍ|.*Oº¼³¢Ž[Ç©øiÒë	V§GÝ~áùLÕÇm¦ê£2SõI™©vÿ¾ÍT}RfªÝ¿_Â©ÛþwÈË\µÝG+,œ«ö7ˆI…õYªö†Û,æª>Ë¹ª/Ë\• sU~LVñµ0Y-„¹*wæªØmž¬²„`¶Ê²„Ù*Êf«¬#§iÓuËÙê-‚ø
+ûlÕv´-2ÑÄp/à±/þ^é‹n{m¶jýHN²ôûtÕöÆ4.:ò7o	mú©h/§«íZË¼-^…Fè÷é*t MÛkóU˜)A\ mˆA™¯²+ùùjp/[Ûr}Ì}ýç3»æDXöƒí·ç“³˜·ÉYÌÊä,er‹:9‹E™œ¥kŸœ¥K™œ¥kße#pÛe#P›œ¥kŸœ¥KNÎ’Y&gó8OÂ¹¼tN*fëpê1û³î1Nh†lpr6…ˆ“38Î¨¦rpî5ÕØõ—·ÉYÌû.[mœ29‹IœÅ¤LÎbT&g1j»lË¼	B¶¼	•m6‚·m¶
+Ç¸LÏè˜	ß&¯Bó›Í;G‹†Ž¢ñO¡àmŠ'h j1ü’2A›
+ä‘üÖ­þ™k¿¯âÒg¦hi„jí)ZŽóªc6Úyª=®ÐíÇùáq½}|ù)
+ð;óœ‡Cé!N
+éÓ¶C} H†@Â/#„VÁÆÃ¡ƒƒ*LÖ¾ŒÐ\É›öÊÃ«X³ZÓ±›•hûâ¶ïbïÅe
+<Ê Vp:÷ÂÁÆ
+Ó ³÷S{&ßÆ ½¡Æ²k£•Lý»_ù×zôø ×ÆÆèÆ|§kã¨XÑ>Ûh¦‘
+÷ÄvJò²Ï–ÙkJÇ2³-S"ŠÜvútB=FS¤š®wÉôŒÊãD&¾6ó‰LlbG
+±/yÄò°Û¹±òû¦ˆò8ÔˆÂÌãô#
+>sàu”GµÉŠÎ¹+z]Sá»Á¬ðM`‚Ü*¶Un>X5v ‹†
+†
+† +&j*L¬ãg\œ‰è…8Ó§È¸ÿ~Æ8Ôú˜(ACJ8ï7=ß¡zœ°üü˜ÔGg›Ó·3n¥o‚6ú®ÿÞé›@…¾	Þè»Ÿ¾	Ûè›À>ý„±C`Ÿ¨Â8#pÌhaL¼Ðwƒ€¾‰’¾áLü fñNfhsô„yûÌ”ÇÒan12
+‘3ç‚zŒ¦H;4-è› ¾ë’ïž±‰×ò‘DÑÄq|QôÅìôMà˜_
+™¾1;}¨Ð7Á}Wp*ÚúnWÐTÌNßâMh‚f£oh>Z5t€ÙéˆÃ
+„Cp*&j*L¬ãçô]ÝM¥ïëIí×&ý•?ezg¹ÇÙz?×Ar¤+×_t®þDÒg.þ  ü8Öá\Zcm±çòë P‰u¼Å:œ+wè–†Ž(%¯"	Ý¶¢Ü¶¢T¢¯ÑŽ†A´ÃùKF;ø°žžO‚¥7¾t¬Ñ¹u°”ç~À²»!Ä;Xï@¡C‚áVe×aZãmñçâ~N„@åœÁÛ9‘Êz{¼ƒ@%ÞA°Œw²Å;TâoñŽûŸý.ï¸Cl(awà«„†-ÞÁF´xâ,>ˆw ¨ÅjY+Ç;††ŸÇ;Z”ùS$ÝmI?>œ/ÿ;Ìú<tò8#áœðÃâÎn¯?ånÛõ‚‹»»"¸ø¶à´pñmÁ¢\ŠSêO9­þ”ÓêO9­þ”ÓëO9¥þ”[êO¹µþÿ GºR
+_:ÙC«?Åý@BRëOMÙ O!"ƒÀ‘<§rf§»þ¶úSîî¾H
+p³Ðò°^Êiõ§œVÊéõ§ÜVÊiõ§œ^Êiõ§Ü¬?åÖúSNÖŸ‚ÛÁ¤ôúSÜ,°S­þv_«?ÅâCQãðÓêO±y$¿ÅÃÕžÈ„hÌ}‚ˆ¹ÕóÃÎ_X0åƒœ'úuzç^Þ˜ÃUxìùQ…_§s—è9's?VíÍ}œrx¶«c«ž+êh%(ÄlÒ_²ÇóØvÌœ§…²Ý‚„Ù*AÂì” avj0;%H˜ý½ÀÂxJös1¡—ì•0aöJ˜0{5L˜ý&Ì^†	sXÂ„üAÍA´
+ß	‘-nÄÀ¸'/ÃNClQ8%DìPìÝcM™vh[
+³U…Ù(ÂlÔ@a6û>Ë×íäEÇ/5P˜/%P˜/%P˜/5P˜/%P˜¯©êK
+é
+Ë¥
+ñMh„×(äæ£a_j Å‚ÃÅìû<BØ8(d&ÖñBZÇ„ôQ¡¸þÓôQZÐÑÍž]àqÉú¼ºÛïžG	ÿô%çlÐç…íNR<û§Ç/?Ö6}wƒÉSq(é;Ú|‡§ÂP«ï Pñ÷¥¥»‚&1·&7×Aàæ:T\Á‹ëh¸eé:àLJü æ/ñNæ:h³"ô„ûÌdâaZA2…¡3Ýƒ‚Œ¦J;t-<A›çð—ß3T2Þ<‡¿Ü¾ÅD â9Þ<›ç Pñož£‚SÓNxŽvmÅížC¼	mÐmžšfí4ÏbÁÁâwÏ!„ƒÐï ÂÄ:~î9¼±/ëÍg<‡7×X1ÿí.Ð¾îàîßÖ:ì/Ìµ{¾{| ùÓöÞvËwÙ9ç³^2Â¬l†ìUÐifÅ4ä¤QZé‹‹°Ñµrm«Wî…Ý¯Ü+Àm^y‹.žEån®nUçÆù@øóAàðàG¸}àq¸'à ÏàÈ¦tÀã±Á;¢ÈÁ“²zŒ¦H;4-ò¬[†êÎärÎ÷jhërÎ÷Êi2ïÃÏkØm¨Ç†"šµÛP˜³È
+
+Â¡Žfñ8Ô&É¡+ºÕžC +`*|7˜¾	L[Å¶ÊÍ«Æ®Â `±ÀPaÂ°BaÃdÅDM…‰uü†SvñeÃg¹õ_û¿¿|<f|vt¿?ðÛÄã?úÄãñ†´Û÷;Ú’ƒ|ð{5t•jèWþK¸íCØsƒÜsƒÝrƒÜrƒT*ÈÜO[ÂvdaKº>CnIó`Ó“¤øÚ±“ÊíƒWî	lÎb§a#—»ÒS’°)B‡dVì9³*»·/x´%ù |Áƒ@eSšàmSÚ³oJ¨lJ,7¥	Ù6¥	T6¥	Þ6¥+8•¼|Á£]BKQ¾àq¿j=«ÎÍBSU¾à#Àì›Ò,>Ø”FQ‹!h÷ä V æw6¥}¼^ÖøÏnJû0¿âqŒ–I/s%Îæøòc6èñ_~êçxÓ¿²Ï{üÿ-óÃö@}ÚãØI‹c'-Žô8vŠÊ‚9¥}Áœ´0vÒÂØ)íçÜTÎ¹¼.˜ÓÆNk;iaì¤„±ñ°ÆãöÁj0iaì¤†±§t`5Êb„•kÒ£ØI‹b'ÅN{;iQìä•sòê‚9yeÁœ´(vÒ£ØI‹b'-Šô(vÒ¢ØiF±ÓÅN2Š´(vÒ£ØI‰b'-Šô(vÒ¢Ø,@V^]0³b¢¦ÂÄ:~cÁÜÒÓrûðÈgÎ¹ù|}”…ûÆù°çç~ªç:ïÿ¾ÑÃS³Žó8{ÁãB0½¹+ÛÇ<ÚÖbáºöµÊZŒàu-VoÝ×bîk1B·µÛZŒ@e-FðšÜ0XŠÕvÉ¥ÿ ¦úóI°*À—Žå·VÜX‘`—aõÂâ•Ø”#¬ÄPä°|bõàB«àç<º¦åJ¬(ŸóðEùœÚJ¬(Ÿó¨ÿ?¦A ¶+ëç<ÙWbEýœÁûJ¬ŒÏyÐ_r%VÄç<îÛ—•XÕ¶+ûç<¸ñ¸+êç<X(¸+Êç<PÔ¸+Êç<X<–ßY‰…«>ŒÀ>uL£Šïí³toD²ž§ÿˆ“Q[o}ÝzëñZ(P1>¹"h[*Ä·®…TÖBok¡`Ý¶"l[¸­…Ü6	T6	^ÖB‚µP°^®…à<Ïæñ”\¼“§ïÐ>žèCOxQ€}æõK‡ F^”‘óÔc4EÚ¡i±"¨¢ºöµÊZˆà-£'˜²ç‚¨¬…ÞÖBnk!•µÁÛZ¨‚CÑý÷ltL…ï³Â7	r«ØV¹ù`ÕØU ,*×žÑs{ÍèÅDM…‰uü|-l~Tó#Øøá‰ÄÇA¼ç'Înètêñ¼°9§>û1½óèU~÷œ¿›ï[Fåb“ðcŸ¡\l<~T•(šç
+åb£ô£ZE¹Ø|ýØ)›ºçí“rõ¤D×áN|¹£z2„u†Ì­~\lVä¹Gnõãü;Üˆ7ç>Eµ7Ö:·O[O[F¹'"‹ë‰—)óA½¢Y¶Ë;Ó½LáÆE^¦p/â,x‰=ÎqÔÆdáäþ9XPŒ¹zC
+<ÇYš“•Ó¿[¿¨1Ç¡çz—üAŸãŠG}	x)ï`ˆæµÝŽú'ö£m‹Ô‰.›YÃHˆ§m·„øb)ŽM!nÞ+š{E¨B3•kºrYûæ%dÞÆÔÞÔÛ	vG¢U¹0ÐÑvaÌÜOaøC&bˆá‰áÄ‚Co¨d¤]y<ŠŸò¶¹èAý›^Ÿ(Gßîg¹sXæñ&Ëó\†7*,½±©ÞdãÆ1*Ç'ÆQ¥‘?1ŽêIaÈxFm*În£ùÅ¼ócÌ
+?Æ¬òcÌ;?Æ,ù1É|Fa¥qÄF.…<‡vŸGàn [pW†h¦™©bRé1&…§=Æ¸ÑcŒ
+=Æ°Ñc*=ÆQÀ»1*ýŠsU`!œQA˜eèzŒ^¥Çèwzì
+ý/IÑzŒ£ü±°%?ã7hv£QÂ>GÛ…)s?…Õ™ˆñ1„'ÆRPéqªd¡@ñêÇï’ûl]Ñû÷£þññ_©y>³|^ôèyY¼¢AÏƒ{aÑ ZaÑ ZaÑ ZaÑP¬dÐ
+‹½°hèõ@mÆ(ÃRY4¬•EƒVYž«]½´hÐJ‹B_`½­–JiÑ •ziÑ •UÚ¡kfÐJ‹­´hÐK‹†^3fè54+Ÿa·õÒ¢¡×æ¬ó=¦VZ4è¥EƒVZ4°¦—Ò¢A–ZiÑûM½©`„­U4_kåæƒ]ë¥EA,0XX€0°ôÒ¢A+-
+*L¬ã7Â¥%ovÇ5ÌÊ¢ÇO„WÔÇ=Äs:Ò1éâ8±<¾Ü½Y›9îÅ=£VÜ3š‘yšŽ†³Á*¢¹Á|¢RÛ3jµ=£é”`¼Ñ„A£	ƒÆ½¶g\j{Æµ¶gÔj{F¥¶§x'yh“ô„‰$ªµ=£RÛ“¥È<&ÎœÊ1šíÐ³ Ï¨•öŒÆîôÕè3»Gi£VÚ3£Ñg4f§Ï¨•öŒziÏ¨•öŒ³´g\J{FYÚ3j¥=£^Ú3*¥=¡ùhÔF£Ï¨•öâ ²}‚b¢¦ÂÄ:~NŸ‘J{&ÿÉ#‘K{>ÎÀü!Ÿû|#ñ+HëS~^­ïyÔçA™ç_žõoz-7¯å¢âµ\Ú'þ*‚·‰tyw[.+nËå}âOàî¶\VÝ–Ë›ÛrYº-W·Å? NœúÄwÕrû€”¹'@àÐgàú)p
+,Fp (rp6¬£)ÒMK¿å¢â·\Øw	Tv	Þ2-£óŠßr^Û]$xÛ]$p÷[Î«~ËyÅo9?í¥ßr^ø-¾ÍÊ«~‹[¶ê÷ÝEÑU ^ñ[,@VAË´ÅDM…‰uü†ßòÔóð™(uÿ¹ùmsñë7•·Ÿf;Á/L%ýòŒÿ¶#òí~(*Gä	ÔüPTŽÈÇ¸‘'l÷CÑ(Ë§h?Õ#ò¯~(Ê#ò1.GäáÀqq?"/Þ	ÔÉí’åž !Gíˆ<KH>*Gä…ÈÁyDåˆ<(ÒMK?”#ò1´¬A+Êå¼-iñC!ïá§Ò~"P[?åˆ<»
+‰ƒB £ ‘¯àPtGäÛ0• ‘oûyh>X5v ‹†
+†
+† +&j*L¬ã7üP¤úkÕ«~ÒÅÏÈ¿q–ùñÊê§ËúÂª£ÇOµ›ûuÇ»ßÝ»¨V·¹ŽÜ#6ÂsäÚ‘3­Ü¢@iñ¹Å‹ŠpY‰ºe-ê–[NŠ^#÷ –Ý¹Ç¿Ÿ‘÷Û½c:˜$¯·yØ(+7x!pÜláìðfV£mY‰¶Mémƒœá§FŒ¢9;4+]Eîqá)rèùÆþY—ÅOä&n"÷ƒÆ²·-ôd'‘[”*	‘[4K
+ºÅ½ìâ r?;-üCžñµ¼Ä×²Œ¯Í›Ñ€ø5hjw{À G«Ñr¹hãC8†ÄpÔ4Ù®Ë“®é¦¶kó§P®W¾|6¨–óo>á¯½ÞÈùs?bïÿ‡Ô¡1“®-<GÐêÛÒÕÂ?G)a4C—¾ÐÔ¶²yÜ§«Ÿ2aõï(|ô]uôm„µï¯5¶û6B}Ú‚i®AìÛÒµ„åø:)?†)_ÈÜÌMcç.0Ûc_Ù/°TØ°ôØÓ œÙ'±FŒ¢9;4+|A«oKWúXùÆ’®@KßJ]ð›k#,Í@‹Åo®°ÅµD¡1éÚ]][ºüTªÁµ+h~smø´4¿¸6n5.÷MÜo®í–X–ƒ&(®íV‚pm¬¬ÄÊ|îÚ’ieþØ«%óaÄí¹Ç9ÏÞÄ9´ŸYEë'‡¼(g.Q:™öJPcÈ¾K¶t&D=ÂnÎœ>B;Aò_r×–òJØžòJh›õsê!A”ñŠIŠ„Q3d¾+¡k¾kÃˆ¼{JdrF¤»òeNª¼ã0ÿò~¡‡\×»]S]¹ùœø	åÑ)H%’›9§ aHNº€,Ö©³‡NE–+A(Äsú‡Úñ}éætÑ¬Ô9Zoc'2ì¦c6±±“ã”šmO²µq¬!P¶·2[	»«ÑF™ÙÚ.%ô›EÞÿý'òZGsÐG“ÑX¹shÖCÂüoi‰2Ä*FÔ-ýeä5-ñÈ|+›5õÞgÒ§îß»·7R¾t7áÏ0WDozhêf#ÊÐN:A”NX
+í‡vÓ-4Ú©Í(h2´ÓÂð‚³B4Q*FóG0äàú4->´C¨naÉÐŽ«ZÁ’¡ŸkÃ+xÉ’ó2ŒÏùÉðÂ1Þg»€fó>¸£À3·@†Ü˜´X¾Hn]HC["ƒÙ(2˜"ÃµRd¸ÆÜL´êÚ8Ò·sœâ a÷´ÅáûéPæH_6ŽôEãH_6ŽôÓÕù²p$];˜7ƒÅô×ÈÜÿÞœ(NFÍ6£­rïÐ¨‡„ñ_;I²`Åpºv–ŠâaùK¶¯Æ}*Êÿ>~X?ï¦xœ—úFÚý1:tL ú©qþs‰ £xßŽ9.:Þy8²ÆÔ§ÅÎÏZ!µ)–k
+m½›î©˜ó½þHìØ=is~–*!´MîœŸ5MR¾'ÎÏò'„Ý³Eçç3ßÓJçúB´t¬M?ã%kž³Tçz™–ÔÑ6-vvVriÍ{m\Ñ"¿ÎÎ"0|Ýt¶qøœþ¢œäésEéº¶­}×hô«wáb:„¾^=^Q*Wç×€Ò»z "K9_ÌØC#¶tÍeÔÜ54ûÇoËõF(â9fåÓç‹¶µ_yaR§wÑÛ4ç –tO6Qz©ÏI‡˜K‡núG…¤{ŠŒŠ«ÿçÖis¦¨óÔŒešÅ¼Þ¦6Ä9›–ýŸ’À±0$†£†e‹ãkhAŽÃ®­ÀÚ|Fÿ¾Yxx…Úâëãx~ÿù˜"›m™Ç%D=/óTþN €$˜/³2A+ÓåËnLGØÎt„®L—/·1aÓH¥ÅÀúZ‰Ž°{ýMèJtc¢Ë-ã…¯ó¸âç0Ñáy¨rÛæˆž=à‘=eŽ`™0—°ì˜uPÊÌOSÀc¬·kèUðA+Ïåëê¡]ñÆë^¯Š¦Ýs6¤¹rÏíæÊœÍ•²Ó\)Í•9ýDš+e§9v]¥,4G—€ææÝ@sð ¹Ñ ¦¹Ùl 9èÐÜ”„!12S´8¶†äœ,7tùœåHM>bÏ²ÿxLpÍ±ââsŽ;Ñ¥;=êŽA<b2ODa{
+†Ï,E{oäûÌÒ¶ýta£fa¾—öyÖa$´Ùñ™™ÌÞÉ>3“Ù™–às·ßÑ6ãñ‰¹Ìö"„M.³a0‹OÌeöNžð‘¹ÌÞI>6.kA0™ËæõÐO˜Ïq„av¿±õ6ôñèfÛâËû>l-öÁ3›AoýXí²X<3F_&l”_¼úÍ“„ºJj#¢:?T[ï‘×)õã%žsç`ˆ7ÎÑ¶;£ »p'ˆ¾Î!•;™AH¯§<1ÏÜ¡;‹B(ÎLš®SÖy3 6Ó›Â€Ìl
+S»„9Ú¶Ë=D+²ÀÑ0D†ãf&aˆ6ÔuVç3>‹äÕªkûä9ýösûaÉûó:û¿wó¼îÉãÓ:o!çqÉÛìÃZò– 6X¡àfö±j(xKØ=ü¡Þ-¡( ÞgP 4(a7ópQEA±QÂ•A]RÂnÒƒ¦„®¥nF4Ú« RXMTº×¡’ê|]…7Žâ¬³aPÂuv ª½BO¡0ì”	Ô¸²ƒ· e¨K;õl§ÞºÂÂZà– 6Ïéµ¶±¼-a7@u[Bcˆ>¸Î,¢·nL©„\zñ¯U—"vƒb…2\§X¡47õé^¢ªm»„&1îFãqcÂ(ÌÌõÀ(ZãÝha¶³{ÂÀoA@=Û)0(g¢ƒëVÂ2›²x¾SË6÷ˆí«"Ÿ©f›ÃõáÂgo}áÎÊ|^‡åyµós×Sÿùçzœ;–cZsÇZsÇrÌ[îa{î¡kîXŽeË#lË#pÍ#lÍ#lÏ#tÉkP™¹c9]2wŒ¯s¦?†sšð…œüÄMã$)î§Sa_9ñŠ¥Â	Z,=ÎäB9sÎkÄ(š³C³"wŒ 5w,S./¿7MØHpÂ¶Å-/:Ói@
+ŠÞ%/šÐ5yŒ°%yŒ =yŒÐ5y¬bC«]6 ôðf¶ä1|šZX’Ç¸Õh¹AÉ‹fIàXˆ[òÊÇWÜ’ÇX[‰µù<y,×ÖÙÊc4'Ï§å*ÛvÑŽiµÇÏÂŽÔøC¨üy†÷óºç™m_˜©þ¼ÎÂóÜçÒ=&¾±jYª©µ„œŠÝCNÅí!§â´Sq{È©øÎã¸l/~0>.ðK‹HŠˆSñwTÅÏø„Šß#NÅ‹ˆS	KÄi^‡ Ç|„Bà3™mƒØÊèa ¯­™B Î„@Ì(š
+qŠâüP¬8ÛéR<ÇôÈ­x£¹C¼¢i¦Ç‚±×o*×X*™\}Q!dwõµ‡ò5œŽÐÇµœÊ5Uz-'º„V1îFûá÷ ¥¡AŽ–£érÑÈ¯=â4…†ÃfJÇ×PCVÔUXoœhùGk¾O¬†úïÓH¥{^Hàôõ‰Ÿ»¶9ú_q~¼æùÂ~¼áýx#ë·˜¸:‚VSLÚa»ƒ!´åyì“·=Âö=BCÐê`Û¡«ƒi;˜Òê Qñu&4~S¾‘I’ÛÆd:»À¬‹}ôÌBagá1Ýßb^v4n…ˆVœŠ† ÕÁ6CØæ`\L1~s0„í†ÐÕÁ¶lh´ohºú—büÔ¨—þ¥]B£ð›Á÷ ¡ùuCƒÛ†ë÷Â²À¡¶[¶Ë†Æ­ÿZ†áô/C›ÏýK¡–|.	±ÿ|ÖþÃã\¸#—>Ngü¹°çùã¿ÖY³W6Šw¥§*£z*j"lÕ_#ñ­Ú_=A­ß›mAØ¾‚ ´E—pàyÓ£P8D½™Þ8˜½¹7›a¼{#¾»Dª˜×Ræs€|àÀR³mÀf³À{Ð[&È)àÑ)> \4Pó­§¨ÍµJ‚we'x—oj÷¹<IZæòºe]\ÚÞ%á]ÚÞ¥m	AØ¾„ t£x—†J]Z(Þ%Añón°xXÚlXäl9Ø.ô¬|JFÃŒ/Œ¯©ˆ¬(¬°BßàxOÉkù3²þsÿñ·7ÏYŸ³ÿóo÷½QÂóGd ?-=O¾?V‹>®yÞÈãÿ™ÙúoœGøíˆðç—šØÜ\Yóc}ƒœÇŠAH§Y–·?Î)Ñ¬™ ­™ %Ú-„°=„Ð5¤D·e‚¶e‚H+;Ø¡'hM!ìÎ·ƒ]B×D†•™RÚZr
+æuÈ=˜Ï,xãÈe˜ƒ„‡Ñ~ÈŒ€~BÅ”äLÉAÈò7¦6 Ïcj­«Ë¬y ­y %^[a}i
+i ¶¥)v!Üù²ØÙP”4BEm’€3¡uÊ–R±¡ÎPdH»1ïÛ¡÷ä–qŒV6Z¶8ZFËýCó’€<)1ÈaÑŠ‘umi SW<BßI)ý³>ŸË©øk‹zgEG
+¾Æ|ƒvi¯¶ìµæŠRk®ä;Ñv‡Kž‰Î°\òþ…‡Ò«ª‰œŠÒë¯ÉœŠÒµaJEQJÍµÔ\ÉaM©(²Ô\YKÍ¥Ô?†wú‹Zj®(¥æf8Ç {ÊÙ,ÎZ`Ùq~J™3!XFÑ›zE©4Wf3|£U2*ŠRi®(•æŠZi®(•æÊ^i®¨•æŠRi®ÌJse©4Wd¥¹ûæ ígf9K[+Í¥Ò\Q+Í¥Ò\Q*ÍµÒ\Q*Í¬4WÞ®4WH¯à?ýõ›òq©¹sÊòóoÙ¼[ûi`Ì^W^cZö>*vŸøä%~ÃFP~ºì}ØË\kh¬a[h¬¡Kh¬aKh¬aÛæGC—ÐXÇÊÕƒë3Ï™AñÆÞ¶Í0ôaŒDoGd	Ä2P ¾ª‚žA-P‰STç‡j18Ö %8V±´Ç¶î~4Pî~T(öyvõŠ{l¬¡Kl¬ar÷£AÛîGC—ÐaC¥W¡±~	¬bÞöCïésL´´Ö ƒ†ƒíBÁÊ§0p4¤uw…‹,­‘1ÐVam>ŽŒYúÆ‘µù3ÿûÏÝG_]üèTÙƒö4¡;ÒìùÜÖƒ|žõô«üæÍW†¦wð¼³ÿ<CáqhêK³Ðyg—#ÜZŽpWÌ­G¸¶ánèr„»b~=ÂÝ°õwåî-G¸¶ánèr„»ceø­ÿl­µL·óú<3<žãà÷x£¬Um§•¹{èé<ÿ2¹ØMÙÍÕBÊ{·¡>¢z»†^ñwƒ–#ÜtN£ó³xãH“M3ëîŠÝyW¢³3C…r§r	ÙÝ)_|†»aÛî†.g¸	›*½^x†»_B«w£ýð{ÐÒF‹ÀGÃÑp¹‡hâC8†ÌpÐLáâèZ£pâžÚ||ˆ»ÞY”ª¨?)hæ´‰ýÆ1îÓ
+âð9_x£RE›f¿­‚_7Ê+Ö\¨†)ëÖdÛŠµ•¤˜R…¨-­$MËÐV’r:â¾SÞÐm9b¯²vÏCZ–ó:L?çs`¢
+o„ílÌ|g`Ž½åÉô
+L¹§ð`nb†YüTˆSç‡båj ´°«àöÕ@pÊj ´€EÄÕ@°ûj€JÉ¹žq†2±ûj Øu§¼aÊr Øû|6êÍN•Úe9¬Xô»­´«-f‹Ð"í¾€>¢‘Û}90…†ÃÆ)Ë©†¬¨«°:ßXDŠh|êäaûy(ïo”?ßeýÊOœü\6¤ï—½»µAÉ;»3Kyï®aÛÞ]C!ðæFÅšyÂ.Hƒn~™Û%”[wZ¶îv3oÔ4´q ïåtŒ¸²íõÔ±uÇ×y»ˆŸÃKøÆ{ÿ‰Æ›T³ý¼›…ýä}¯)Þ¹c¹ñÎJ˜wÜX¼3Ç:ëÊŠËÎ]ƒÚÈÏ	ëÎ]ÃÖ».¸+Ö¹RöÕøªŠ;wXvî¶ành£Q¡2?µéÅÎ]¿„1îFÓ™ïFæ—;nµ°ÙÙ?aÜ·$xçŽ%Æ;w Z1®ÂºsÇºâñùÆÎ½Z úSÓÅþsóÑÇÓŸ“èžJ;rå9™âÔžYøÿµþïÿÝáó
+endstream
+endobj
+98 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 798.92004 107.5 812.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Post)>>>>
+endobj
+99 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 782.42004 111.25 795.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Post#Put)>>>>
+endobj
+100 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 765.17004 127 778.67004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Post#Delete)>>>>
+endobj
+101 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 747.92004 124 761.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Post#Patch)>>>>
+endobj
+102 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 729.92004 231.25002 743.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Negoziazione%20del%20contenuto)>>>>
+endobj
+103 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 713.42004 210.25002 726.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Negoziazione%20del%20contenuto#Campi%20di%20intestazione)>>>>
+endobj
+104 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 694.67004 118 708.17004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Metodi%20HTTP#Cookie)>>>>
+endobj
+105 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 676.67004 181.75002 690.17004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/6.%20HTTP.md#Autenticazione%20HTTP)>>>>
+endobj
+106 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 658.67004 114.25 672.17004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/7.%20E-mail.md)>>>>
+endobj
+107 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 642.17004 124.75 655.67004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/7.%20E-mail.md#Sicurezza)>>>>
+endobj
+108 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 624.17004 205.75002 637.67004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md)>>>>
+endobj
+109 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 607.67004 220.75002 621.17004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Concetti%20di%20protocolli%20sicuri)>>>>
+endobj
+110 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 591.17004 193.75002 604.67004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Concetti%20di%20protocolli%20sicuri#Scambio%20delle%20chiavi)>>>>
+endobj
+111 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 574.67004 172.75002 588.17004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Concetti%20di%20protocolli%20sicuri#Scambio%20delle%20chiavi#termini%20tecnici)>>>>
+endobj
+112 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 555.92004 147.25 569.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Funzioni%20HASH)>>>>
+endobj
+113 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 539.42004 130.75 552.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Funzioni%20HASH#Standard)>>>>
+endobj
+114 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 521.42004 154.750015 534.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Funzioni%20HASH#Funzioni%20MAC)>>>>
+endobj
+115 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [94 504.92004 168.25002 518.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Funzioni%20HASH#Funzioni%20MAC#Replay%20Attack)>>>>
+endobj
+116 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.5 488.42004 177.25002 501.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Funzioni%20HASH#Funzioni%20MAC#Replay%20Attack#Alcune%20difese)>>>>
+endobj
+117 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 468.92004 98.5 482.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#AEAD)>>>>
+endobj
+118 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 452.42004 129.25 465.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#AEAD#Problemi)>>>>
+endobj
+119 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 434.42004 205.00002 447.92004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Crittografia%20Asimmetrica)>>>>
+endobj
+120 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 417.91992 105.25 431.42004]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Crittografia%20Asimmetrica#KEM)>>>>
+endobj
+121 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 400.66992 181.00002 414.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Crittografia%20Asimmetrica#Men%20in%20the%20middle)>>>>
+endobj
+122 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 382.66992 177.25002 396.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Trusted%20third%20party)>>>>
+endobj
+123 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 365.41992 157.750015 378.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Protocolli%20sicuri)>>>>
+endobj
+124 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 348.91992 102.25 362.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Protocolli%20sicuri#TLS)>>>>
+endobj
+125 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 330.91992 112 344.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Protocolli%20sicuri#IPSec)>>>>
+endobj
+126 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 313.66992 124.75 327.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/8.%20Protocolli%20di%20rete%20sicuri.md#Protocolli%20sicuri#MACSec)>>>>
+endobj
+127 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [62.500004 294.91992 102.25 308.41992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/9.%20IPv6.md)>>>>
+endobj
+128 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 278.41992 109 291.91992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/9.%20IPv6.md#Header)>>>>
+endobj
+129 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [73 261.16992 224.50002 274.66992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/9.%20IPv6.md#Neighbor%20Discovery%20Protocol)>>>>
+endobj
+130 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [83.5 244.66992 205.00002 258.16992]
+/A <</Type /Action
+/S /URI
+/URI (app://obsidian.md/9.%20IPv6.md#Neighbor%20Discovery%20Protocol#Configurazione%20Globale)>>>>
+endobj
+131 0 obj
+<</Filter /FlateDecode
+/Length 8428>> stream
+xœí][«5¹q}?¿b?üY÷„@ìxüœ0àÄ	Äùÿ•ÔªZRµ|No¾Œmâ1xÎ¬ÞÝ’êÖ¥%©ú›óµÿó2í¿øÿY‚ýVm­åõ»Ÿ>þûÃÚô-µ²{ÁŸÎEór¡¦o%G÷úã¿üëß½þ«ýÜ³í’1®?XþîýE
+¾~‹%PíßÅ½¾%óë[{T}ýËo_üã>~ù[ÿúÃÿ|$ÿrÖ´û_?}$÷­÷:¨xë_„ùci˜5ßl4–°bj*u`!¶‡üŽîNÅçš“ËôËhœm­7Ì~3Þ;Â\Ê9Åµ¿Ë¸»]õa€í¦öCK©åúa{x%¬5—juƒn¶Ô±`¯»[‡[Ç Úta¤†õ‡9º§&•ñzlƒ5fÏiXÞÍ^\-6Ôù‹å[mú8€†eïœËËHj.ÆƒLæm¶É±ìúm5®kcH9Ž»Mòa<óÒGÌZo]a]¯ížõzv|ásL¡a'nÑŒ†=Z¤¾–6ìT^8“iä~mÃèïq7Ë¥¡í®ôbá5ÀÛT7Œ:1dÌÚhhën|¡ÖLž
+mu…²ÂéØßÖ#í Í9Î^£ÝÊøÐÂ§$¦'dØå3›lÑ»¦6/ìÚ/ýÝÇ|üþã›É!²_»»›+°¹yî™^¾ÙäËRdùýÇ¯~üøåáÕDóãï?ìYö5~Ù°Ÿ>þÞ´ÁÿÃëÇÿühº§¾xŠd?þÛ«]ˆît!.ä~á7?>ˆN™d×ûüÓGNC n@Ý¼	#ÁQŸ½nÐ°–âÀ.‡i()£›EC»k5Œ”ÖGìýpÁ†uõÚµ¿Ó¸{ÚA[+ù•£˜KÃÚÃa­¹Üý¡a­J&è®Göp’C·RwAuÔŸè–0ì{¹î»¤€ñÝ„æfƒžŒí’ÔìšëØý‡à†«†u¬Nœš¥â$0±ôœ„	³Å£FìæÜÔl»g½ÞFÞ[”çyX[44òÑ tÍÐÀÓ‡àêðFlÃ²·uÜÍbih»«•Å×°PÐ»Bª¤¡=¸ êHJC«®­N¥Ó0¾šSã‰Er¿Áta„`ä,t†)3t.ú×ÔBºÑVm>L…bžoÿ×’šf½ù“è4~ž>Nå{¡TŠA¡uŠñ.Å8r#ÔOìJ]ÓMŠýž%Åþè´XPLw!(&‚bZBPÌ[âë`ïüðh|ˆ»¾6G N	#÷"/gÉA8 Cà`mØ­¹©Õ5 Å0ÞµËs¼@Ñß èÇk~Áö:V7‡E(n¤‹ðœ@³¥Ö- ÅÞa· èX§n@Ñ-hÜ¼ èîwÌqöíVFˆ>eŽ0e†.ãok!Ýh+‹6ß@­Ë!|= Åz —q&œPø¡_hõäîw\!«É–|°Í¶;žÇ²œU,kŠe¹ÍB­‹bvÍóP…U±,WË¤cYU>Õ0•O5ì&˜5tfA0+ff||‡^‚?r×Àoyàá0VˆS(2Xv[@Ê…XöFonêufRéésf¤¹1Yú–t8kÒWùéN‡3Ò^»k	g£§¯‚ŽwùTCU>•ãÔjŽk8Ëq	g|3P¼gÜ!°ÈÙo4ÝxÎXèI‡3.úWÒñŒõ•EŸoÄ³^¾™´Iî+á¬ÝþI>Âãàtš†_=Z4ïuÆîìA;;åŒSìaWv ì¡;;åLŸðà$Ÿ Ë“… òàêi°„inŠÐ›ê˜pSÎ„•›âëÀ†ðs€7'½ÂföÈ'Ð:S ÀL±Ü€™	£Äº æ‰u6”ewfŠ îËs®©0S„ˆ)ûd‰©Z51Uyz„ÄT­1U«&¦v%_HLÕ:’/$¦Ú.bªÿ‰©ZbªVMLÕzGLÍ15{Ä”Œ‰©)	 ¦Xb@L‰h¿ºt°ù_×•øç;¼”3åekþ>Wãç<ý³³¯|LgýÓéQ¿>%rÇXùøQç^=¹ñ§@ýýRØsGNðñ ?Ë†Ÿ<êqÆ}u÷qÆíœß3n‚(`ÆÝ’©0w L³„î¦sQQ˜„©”›À=å&lO¹	Ó)7¡[ÊÝ!I¹KkÊ-×%¿“ÇH&ˆJÎ(]“ÜR† Y(ŽUòU‘Šäµ"=É€QÎ’+‹FìæÜÔì’s´çÜí•s¦w
+Ó9«RnÂtÊMèžr¶§Ü„é”›Ð=ånkÕ.)w¿‚faUÊÍ ©Ù=å–~£éÚ›”[dÎà…	ÂEÿr*ãmeÑæóŒÛyóê$Ô×RnçÊdŽyòñ5búÛHW„§cú~zÁ¼ñVxþ¨ãÛí;ÆøOnõð–~>
+EÍ¤æ@¡ê9PÃnæ@Us hÔ¨AzÔÀƒqÔ°«qÔ°Ö»M‚Úú»Ì‚9P´Ûh^Ç9ÐõœI{<šÝÂ)Ðì>Îdœ8º‚s )7œ‰„qî2usœ©³¡¬¢æ@Rs iÐv™5,ÒÕuÔÐ}äBR“ Âô$ˆÐeDÀ>	"LO‚Ý'A›êiõK`|7˜Ž´ƒF6{¶8{F+ãCëž’ÀIÐ”N‚D¶‹g]ZØ<PfA—6ß˜Åøj}knû¥YPôŸ½AÎqét!üæñdçHH³-k¡HÖÄÅrlP÷
+Âš¼»Ÿµô¤sžä1S3»ØÑ†r$kh÷HRÀÔuËVÈqÄFÑ ËÃÚ­'”è¦Ýndu@5iç3”ýr¥¡Ýpó@©¿¤=¶íÜÿ3Ž¿ÚÏ“x]ŠÃi"Þ‡{ÕµH^hfë£G¡{ktÐñÐÝÚÛu„¡ ’#„EX¢=ôŒ'N%øe…©ÌvÏz½;Åò;Ò¯¥E;©Ñ¥ov¨83üvª™¾ÈÄŒX°ÈÎŒ±HÙÌà²èÃŒ0´¨Ì°6ÍÐ¦(Ú¼[˜w£ÕH;h_³Gh†³çh°2F´ì)ô€)4ô/zÕTD¹QX…>‹bÉÐµE«ðêyü<Ï(vÌÇÞ]û.¤Â1î=OÛÿ"Ù÷«Ãþ48_ðÏ_ž,¼¦þ*ðAŒ±¦]|£­y$R~Çñ»<S.äu^óˆl>ˆÃÔîf±gÕ2¥œHÔîd/ïÅSkq×{ñéZ&SÑPöþZ§áˆZFÒê] =x'±…¯Ûƒ<>gxoÉk‹vÄ5‹}3#þÁŒÄI©9a‘‰»,93"tYel$–Om¸:´VPkfjõwÛõb–çÄŠ–ã5w_ºGt[F0¢þ:Ö0i”Iu]x
+¹ì
+Õ‹:Âê‹Úk4ŠÆÃk1Šy7š´ƒ†6{æ8;Žv+#DŸ²@G˜2C—aá¢oM-¬>8´E›Ï^-Áw¾7Ñ¢Åg¯ƒñc{½ì‰¨·§Øwq§ hÍc†åÝÏ/ŠÞK½-{‚LP'áUÞ2ƒAPÂKŸ°Ëc!= ´“žFxg9
+	a:C&´Ï–!…!¬Ïª!Ù!ì
+SÚdN£¸02+ßéEHºäº$gòIã°EIø¤o’Ê$…ÄÑr®)b‘”TÄ'É+
+ZÒ\Q‰¿Q]˜ª]Òe‚öt¹µ¬ÒeÂ†÷.]»¦¯0›T¶L˜Î–	Ý³eÂöl™°‹ËE…Ø4X_T\Óî¥S›Öl¹_³à»Á€ 05î˜$÷ŒÆfÎÒ@w˜BCÇaé¢‡e•,‹ºª¨óy²ì[LüRl?ž~Ì=g«çä:>N®Oùí9ñï%Œ>¸=a$hO›©„‘00º'Œ>„=a$H%Œn	#A{ÂHØ5¥‡Ü€Ð=aì˜$Œ>Ä5a”ë’¡Ès$aÄ%ë‘¾qrÄ#$
+G*é‹D²2‘œ¤o(cIôXŠÖÌÔê’0´'Œ>X•0¦F»ƒ/#¸¦ÍËXN	ÜFÂö„‘00º'Œcš5aì—Ð(ŒJ±44³'ŒÒq´[s“0Š,Ð¦ÌÐe¬NE«rÂ8µùFÂØbª­¶oÆ-_HÃdìi*û<e<Ÿ+8…Åó\ý“½7añ1Ÿ{ÞS|¼ðç\|ãÝò˜ê97þg}yþúÍÉ@
+j2‚bËÛ¿FŒÅœ&Å¶œÐ-o~¿³åÝÌRÚÙr‚v¶œ°›©@Jz*Ò2Hy›
+ðuÈ<ù9£B‹Írß ëC€ôÆ*yô”	dÛ,:HËAÈÀ³:üÚÂTë:HAO’‹NK‹~.O-}ëû><ÎRßb×¡º»™@rz&œž	$wÃ›ºóæc•ºm&Ü2à»Ñ~Üo.=Bƒtz& cDŸÒ@_˜BC¯ñ¢ME”…UQèSl¿º²ÿ<Õ÷WÿŽìñ14>ß(÷˜PÿY^<{­ÿÕ¿i‘Ý—´oƒ!hßãKë–°†0]¨‚Ð}Œ/eßCÚCà¾†°}a×Ë	v=ºŸè˜ìƒñ¥®û`ø:ì½àçÀ.hqnæàŽÁŽ ì‘Â.’)ØÃ’ƒ0 cØÀÂÚ€.¬µ¡®´o„!hßãKT‡Óe*ÝËTørÑäË`™P_ÄÖ0ìaÓe*ÝËT4ŒõÖ0ýšDP§ ÅÌÂ¾†{½˜-o±ïK°†%a@¶‹oEu€µ%>úÎFß,Ö¶YÝ§[`|µŸ2bßqweˆßm÷çØŒÿü éóíûá4å~ãpDýÓz¼ç>˜²ï¹'h?åLU'ö	Ó{î	ÝO¹köS®©-÷n'ö	ÚOìvqv°µšÐmÇ}‡dÇ}°vÝq/×e{·<F6‚cƒ²e\º&[Ëy²G*»ÕY$²©]$'»ßQÆ²O^´ao´æ¦V—ýöíûíƒÉj¿=aj¿=û~û–ƒ«ýö„é’!„î%CÛOì¦÷Ûºï·oØÔ©IË~û~Œ‚oófÀÐ¸CbŽÜo°[!8Ë!«ýö \ô­¬öÛ‹¶²hóù~û`Û,É|a§}°sÙäýBÇiÁù%ñx³û9ûãœsöÇ½:¿Þä¶‚÷;·EÐÎm·E˜^è&t_è>ª…nÂ4¹Eè¾ÐMØ¾ÐM˜f·ÝÙ­Ž	»|ZÙ-¹.lŠ<GxlQé›092á|p´L‰X„Cñ	Û„‚^JTâoT¦j~‹ ß
+Þ©…nÂô¾PB·}¡í	j¥›°+á]¤r2Z¤wEZäÌ§–XµÒM½ŸJµ+¿Õ/¡]XµÒí ­Í¡MÎž£õÊÑÎ­Zé¡¡ç¸›}¡¢ˆr£°*
+}Îo…`^µM¹¾°»½ÿÜóù¨S^x¦Ž»<Ž˜£ùqæqGìq¶ãÞ,­bÜù‚v>¥®:VD˜>VDèÎ§„6¯ßø‚ŸBàÎ§¶ó)„i>…ÐíXQ„Â¤SB,+Â×a?S}ho2Ü- ¸û@0À8Š˜6…ål
+HXÖ°%¬³¡¬¸³)ílJ rX›B˜*­@à~ª(D¯N¦ÉB2…€L!L“)„îdJÃX›~%Sú%´¯Èhg±1¿“)ÜëÅfý™Â’ 2…%dŠˆvñ« ¸Ö•øç;\JHý	ŸR)¡ÝO¨”7NRƒä‘å8>êH!¿QÏ¯‹4«ZÇ©Wt­cÂ4…L¨
+yÅªWìMÈ+V‡¼buÈ+ö.ä]ê¸cóÊVê˜¯££]êZdÏC÷žÀ@ #Åq‰ƒÞ”=‘1«¢+³Öºº²ªtLÐ^é8ä¢ƒ^.7A/ôrKˆ8ÖœoŽRº½¬¦Rº¥lØTgÞ
+÷K`|7ØŽ´ƒV–U¡cî5Z­ŒÍ{JƒÞ”=-zÖÔÁæ\çxêò WÒ«†¯Ô9%üI3ý‘²8æ™×Òòcæ5U°9]°9Ru¨­¾`u¤¶ú‚qTœŠÈ¼Æ«00XÑÜÔkŽW¥+ Äâ,ˆÔY”ºY@²ÅQa+óÚ‹t‚.š­Rs¿$ôžÜ,D 6#”¡tH¨Eî·p8>a+YBjŠ¼„ýDÉ
+O*:°7ºrS—ß.Ñ.ÑÍM‰æht‰æ0êRÙ…o­w%šCÕ%šCÕ%šC½+Ñª.ÑÜÇ>øÖº–hîW€o­ºD36|kU%š¥ßÀ·Ö»Í"4]¢„‹¥K4‹¶²hó9ß[Àøâü}üœktWÍŽõXÅä¸¢uLýt©ë|õùV—ãY¡#…ú›ç·R˜ºÊKU#jwW˜‡»øºjÄŽ¤ìQ5bq£@R¦_rÀ…”â€+—j_ôiÿ”"Wfò@z|+}Í'u‘ZOeœ—1i =-ã¼ŒuF¹*íS ÿ¤öJ_E/gNŸä1y$Znm0|Lú•8iãÞ'¦a˜%MÞqŠ£¤Û*H­ôe¿H·$æ;Y%j}•4õÙîY¯w7^žsÑuÐÞ¬z´tëâÿ°óv¬ý/£dBq‡Ù ÈÌŽè¶ˆÖÎÜrQ‚Y(êÊ²íÐ¢hÙ¾C˜7£ÉH3`[W¼:½Ø*o1êK‹ñ_òZÜd
+vñ§Kþ›ßu=‰_>·ÖÐs¼yÕö
+øBEêñ{)(u;Çðù|G×ÏQ~ð¸U¯ã}²±ññšUu_³"h_³ŠÑ¨5+Âôš¡û~ìí¾› ½dEè¶› }?6aºz	¡ûŠUÇdÅ*F·®XÉuY‘çÈJ
+¶(k.Ò7Y›á!È"Ž•W{X&²&$¢“Õ#²¬3‰:üÚÂTë²^EÐ¾^CQëU„éõ*B·õª²Z¯"L¯WºïÇ&lßM˜^¯"t_¯jØTiÈëzU¿VÁwƒý@;`iÜ#0Hî9˜.Œlœ¥¾ÀB¯ñ‚±"ÊÂª(ôùzUŒýøÞWâïøyø,ü¡Ÿïx“ÛŒYUÊ&hç6cÖ•²	ÓÜ&¡;·³ª”Mâ6	Ü¹MÂvn“0]%ŽÐm9§CBmÆ¼UÊæë@§ÍÇ ïíMzŽ»wØ>'ð‚S Àl²Ü€Ù	#Éº æ’u6”¥*e´/çÄlT•8Ât•8Bwj3&]*›0MmºP›1éRÙ„ij“ÐÚŒi–Ê¦¿j³_ƒà»Át¤4²¤Jes¯ÑhÓ]©l–P›,1 6A¶‹gU%Žµ%ú·s7ü/”W¿þüKI>œ÷Á>ÿ´Égû¨žgf5ªÌ¬F™Qq“­®aú¤¡*3«Yef5ßef5«ÍD„í›‰Ó›‰U©YÍKjFß]R3¾© ?’hÒî¤!<HX`´’ÙL©@þÃÂƒL	Ä9+Äß(.LÅ®¹Y:7«Açf5Üåf5¨Ü¬z›UsVŽÐNè-ÂëÈy³¿9+Gè~V®a¬S¿åft	ÍbÞäoÎÊIÐ$gÏÑxeŒhå^çf,4ô›p—›±"ÊÂª(ôyn–èÃ·9}õ¬\2æÓ³rŸœPºY²yLžãéñ›Ç^§øÇ©ñãýøo0¤’ý‰JÖçÃó³ˆ•ûÙ©‘Çy²yÏÈ	Ú3òDee¶Œœ0½ÁŠÐ=#O¶î9A*#'pûvAû·kÓß®!tßlÐ1ÉÈ“3kFÎ×!äç@¾-Î´’;¹çì?$©0NHg§@ #g¹AF†Lšu7ël(+ï9A{FžlR9a:#'´ŸC^†ÕfÂtFNhë"º8‚ÿ"áx“‘ºgä›ê´qÍÈû%´ˆ¨2rhg±²«Gh‹W¯£79K2r–dä ÛÅ³’ÊÈY[â¡ïdä‰–+ëW?^“ÜüÖ–;ÕZ>×þóèŒŠ>aès‰>a(u‰>ÁÞEŸ0”ºDŸàÔwÝ	Óá‡*Ãl„ a;!@˜ÞìD¨Š?Á-ñ'ø-þÌëhóó9èÒ";ÑìzÚ ú¤Œ½wÊ#Ð”F ‘2FŽ©Œ0SoCaFE `tòUív"Lív"p§’/Š ì& ù²Rì” az‹'¡ûÏ†M}ú² º&ÁwƒñH;hf³G`³×h¶2>4ð)	@Sb€X´è[S›Jü¹tùFü¡£²ôç/ŽOí1'ðF’õ¸”ÒóQoœ{:C}^èùÉ®ó
+ÖñÂ'DÉcÖ#éú@é¦>Pº©”në¥Qä&"ë‘z-œÁ„°«Œ¢9~¥=R¯®³ÒiTáYht[!(Ê>Èz¤µ@PÚ¥›Aü™§Ûú@Ò3™ßË„	À±2e BfA„'Dº­”n*%¬”t… tS!(%¯X”æ7”—®ù½Th%qü:Tw³ •n
+¥›Aé¶@Pº)”¸@PÚ¥µ@ÜæsW Hz„©áÑÈ"=Dhè6,]ô/¯8„õÒÛõÕjo ¯.H%.t¬×~f~¿ãW–Ž'RO½úžÑÿøêùä4Á“^=ÿbîQìGãM.<•¬Þ
+%ë·B)ú­PÊÝ[¡Å…·iÂÎ…¤¹pBÕK¡TýR(õî¥PªâÂ;o…j¶·_‡(ÄÏx-Bdã¾Aä1@¬„ÑJPRÐËÂƒb†hÎ
+ñ7ŠS±ë[¡dýV(IÕ#L×#t«—JTuãÓ\8¡êµP¢~-”x÷Z(Q¿Êüzýµ¾J\^|7P¼{-pÐ$£~-ÀÑÊ§4Ð¦ÐÐoD¼èaSåFaUúÆ{¡½m¬õ_æÂë§Ÿúþ[-´¿ªZhÙ¨ƒlíÔr¶ú ašÜ!t'w²µŠÜ!¬ý]r‡À[&hç–	ÓÜ2¡ýÀÌõ³u@-´@"ðÝ@7@;“•àî u1{ŒØ–:,/ t@²@Ä°€°a]u%u| ÐÉF_#LW@#t¯€–MVÐÓ‡v	]vF‡0Íèº3:›ª4Ûùµ~	ï“‘vÐ¸fÀg¯ÑVe|hÕSÀè°Ä€ÑÙ¢G}€µ%žù¥“ûªï—lÃg¹¾ûáÄ)¿qÆ«îªÚ‚ƒŸ¥?PH³D†QLdÛc–}P+Zy”'Y4)eL@å>ª¨ã£Ž:R@m–ZA{œ%Y.{õi=ó:šü|:‡´È>4;†Žvõ=RÆ‰¾{	ÃÏ”†‘0†©/SgCY^…ŸYýcyŽÓáÇ;Í'gïŸœG»ŽÕÞðÉy=‘­Ü+£¬Z„é­ì­ZÐjkÓnÑ‡.¡AXµ í,Ff÷-îõb³ö†OfI`ô™ÃèÃ¢]üÊéà3u%þùVð¡¯´ÉÆ×BÔi9åHÇDó\´ñ“2VÏƒUTõb	RÁ*f¬b¾Ë‘bÖ9R,:GŠ7c	ÜÀÛÀ»	WQŒí„«¸Œåëè#ó9èMQŒåŽ¡gF]0FŠÞ>e‚kÊ–HÍÔ¤c‡^×€uÅØuÅXÂnò¥¨+ÆæÔ
+a7ùRÜ*Æ ò¥xW1–P•/ÅÀ
+Ý*ÆöKhºb,´³Ø™ªË½^ìö®b,K#VÔcA¶‹wéŠ±¬-ñÒ·Bi'|‰?·Ÿ®€}v(þÏÎèÛ*¹ØýûGíß?ÊÅ©ïÖ,„^€ðÙBû‚|&?6àC2„]+ òÅ{4€ÓÖ£|Â†0ýÉLB÷/ uL¾€”ËõEv¾.ŸÜ‘çÈ°EùŒô¿ö#CÏáXåB"ùÐHO¾H„r–o±FàG¢935»|‰ ^cyŽQß@"L}‰ÀýH9Wõ$ÂÔ7Ü¿DØþ$Â®Hƒ
+É×yyT\®S§ùú*ëœ.YðÝ`@Ð˜÷H,’;¦##gY 3L™¡Û°pÑ¿¦V?ÚŠ¢Íçß@Ê¥½‚ÜgLÆ/ç{:ëþÆ3çrÇêÍ¶¾·vQŒª
+JÐ¾vQLPûø	Ók„îkÅÄ}í‚ ½vAè¾vAØ¾vA˜^» t_»è˜¬]³•ëB•Ës„TÇ…~—¾	M/cBGËÌ?KEÖDx²’€b–5Qˆ¿Q\˜Š]Ö.Ú×.ŠÑ5A	S+Ún+ÚÅXµtA˜^º tßÆOØ¾Ÿ0½tAè¾tQŒe•n%Aû%´
+«–.°´´Ù#´ÈÙs´]{³t!Ò@gpjE¤‹þ¥+‚Šºª¨óùÊE±†žúµz ôæºæ™÷úœwË?.¶±÷Ï£™K*š¹¤£™Ëj%–0}^œÐ½Æq»¤jvÑØh<®ìÆ	ÚŒvÍ\ÑÑÌ•%š¹ºE3¾ÞÃÏ?ƒÁ#¹oà¹sàâ0V‰,,<ˆ- fˆB¬£¸0»F3—t4sQG3o¢™‹û¡¤ÆK½5ÜìÏ!t_ˆ%l_ˆ%ì&š¹ £½B.•†-š7ŸXEÐÑÚAKj!VzŽ¦nöçˆ4Ð¦ÐÐmâM4c5”uUQçÑŒêŽ´H›>ÿjåø9OA—Ò8¯FžwÈœŽrž×zOë—çdòqó:ìóo¿*ò¼æÿãZRKìÙÕÊÎ®´³«%TÅ®¦—‚Ý—‚J4ûRAŠ\%p'W	ÛÉUÂ4¹JèN®vLÈÕíJ®òu óø9@üA‹“äŽ‰È ºF
+Ää	p«,9àVAÆÀ‰²6€;e­u•[%hçV›·J˜Z"p_*!©Å Âôb¡µJÀN­¦©UBwjµaS!­Ôj¿ÁwƒíH;he³G`Œ³×hµ2>4ï)	 VYb@­ŠhÏÊŠYe]‰‡¾Ã¬–Ø’sä—¢Kôÿß¥|~ªõx¤öù¾œã>ÎŸ£Ìëãóî˜œöI½Qçáy…1>×ðÏíÿ«ª3°
+endstream
+endobj
+2 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 594.95996 841.91998]
+/Annots [5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R]
+/Contents 49 0 R
+/StructParents 0
+/Parent 132 0 R>>
+endobj
+50 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 594.95996 841.91998]
+/Annots [51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R]
+/Contents 96 0 R
+/StructParents 1
+/Parent 132 0 R>>
+endobj
+97 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 594.95996 841.91998]
+/Annots [98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R]
+/Contents 131 0 R
+/StructParents 2
+/Parent 132 0 R>>
+endobj
+132 0 obj
+<</Type /Pages
+/Count 3
+/Kids [2 0 R 50 0 R 97 0 R]>>
+endobj
+133 0 obj
+<</Type /Catalog
+/Pages 132 0 R>>
+endobj
+134 0 obj
+<</Length1 15540
+/Filter /FlateDecode
+/Length 7833>> stream
+xœí{	t[×uà{ï,7€ ¸ùÁÏà"‚à¾€Ø¸“à&´$"µS2%+²,Ë–FJ›®«ÔI¦§v&>gâ,ãÆî‡äUn§nœ´Mr2×ÇÍ¤s’ŽÎÄí´M¦GÎ8ŽÎ½ïp³d9ÓÎIg¦øúx÷¿wß}÷Ýý}P„BrÈy"øøTCÓáÙƒ£„ÐOAo|áhbY>Ï?‡çßZ8uR²|Ìuvž¿¶ùÀÑÏ·ä¿IH®ˆØ$îY†~3Ü·ñÀÒ}ûyï¹Ç	Ùî&¤ô¡ƒû‹…þ'Ð‹ÂxËAè0¢ž›á¹üàÑ“§?ó¦ýL}}ñÒÝ	ù)÷«„èÞ!D0Mœ^$¶îu¸¥c‰£ûäÏv?Iˆ(7–ï¾çäêvÒ°Ç—Oì[¾ÿ/žíƒ¹ÐG~B(¡««$ZB?Iþœ”‘ƒDOyžV’Ç ïú— ¼øguÒºÅæ‹4õ÷ð­¤N¥nˆ`Ï&„OòFÈ>öëó¹]ïK…wpä­¬O½íÛáco¥N­êÄGÄy”âòÀ }L^a(¥aµ¥{Hõ"‚n}aãš3Ã³cÄG$òc!kµœºEJ­0ï)c"»Šá3˜6Óß”·"9í6Ðœ@L€UCH;$3d–"Ëä^r†ü$‡ªIÙAúÈ0Œ%Èr‚Ü‡c«ÿõ–×7¶JæŸø™+DB¸&‚†ÚØ«×™yõújÛ¦±kF®Ãñ/{ƒîÆû¶ø×4|\€Oƒï]}?ýÌ®ÒAö n^&ßžŒ&)ýí˜B_1‚–“Äà‰‘îær=©Å'_NLœûŒíbÑaÐ›´ÎÝl†ê»Ù}™Žwfû¿žÞvÞ|>ç¼é¼€dB¯Õÿu¾rúÂÞWPÁd9}x"ªøŽâób0YÏ/‰ÚA‚1G²
+»®Ï*ú^˜NàÇ—s›b}'sé·ëô9µ/ÓÕO(âcIF‚Wt‹zª279´1àä}¦¤’¼©Á"È,0&‹¤…i°ì«Qƒõ °¬>°¡Ðž$û  ‹:	×	r7™;›„þÐ»ý'ÈNŽuàßMŽ%6‘z ƒR’6Ñ’¶P“€ž´…ÞúüN°´ç1€~]®6?}4NÐ.ƒß ÖˆA'ùnÁ¯Z$~2
+-b ¼z€°ãEhUúƒð´Àûû`Ý%h×)ÝÃŸöA‹«Ÿ‚ïEÀÄOí-¯»Èoi×WÈ7ÈOÉO©…ŽQ…^cÍì!öºÐ,||Ëõ‚˜)ŽˆŠ_ÿB—Ð­è‡ëtÿYŸ§oÓ×Yÿ+C‡aÅð¬á¯m,ùÀÕ`üIÆþŒ/šjMš®dîËü½Ìß‡ëíÌY÷eý(»4ûi¸¾“Sœ3‘£ä¼™›Woî‘!×½ÿâ¯ÇþŸ¹žý?z½9UJ'úÇžt ÷»pÞÒ÷$Ü÷œöì…»îF¸Ëà„Û§õµ"|‡5JáŽÂ†{éjwÜê?Wñfà>-|œœÆ~m|nC[wŽ!>àÝ)©î«pûµu§áî‚; r	kð^X?¡áxÐczž&ÇemÞhwážotƒ|fîÄËÿO”Ýoš‡ÿÛ?`‹Ç~Ó<üëgóìú¿iþw?gâ–2Å$	Jüœ‰aE?5UšJu,¾_Z™‰*¬"¡üò^‡Ó©˜Brð2ÔÅ¸¿N¡nEŠï¯S˜[vÊÎ:EpK‹W›øŠ5 Åãþ$³üÉ
+! °ÀôiIÉ’$1rú2cÈ(Î}ÅNì½œc§þb	@ÙÙJ­0&+$Ý»œO_Pt+‚K±¢¸ž’hiQR^‹(båÜåjš-„}(êT„ŠØä]Q@v¬D%%.`+mµÅbRRÅŽª¡K{’”FoDÌ×"Q	¤±’S$‡	ÇLµ ÔwÄá¤á i)Y…LF2ŒÈNxv+%•'^6“ÄxYGöÆb‹	8N¹b1m1iö#ûcuŠÎ-bEödD¢ŠAö+FÙ€)ñ:EÏÅ’“†½~	q»•}üVôñÐ‚¢«uÂ`@Z‘V`­d£®$4G‰ÉXTŽ9c’â›ŠÂ˜å¢±R§ÜJFÀuŽ<\êFx”ý2˜‹ìO(lï~…. #Š¡¶NÉpKÈmlK${%¤ øâ1D‰9·&÷åŒùkk†“éÞlHY*ê°õ¸Z‘¨T.lâ@…(’˜Ls	ª•Au‰ìÛLWÊaq¬omã¤7ßÐ•ì,"„`‡ìŒÕ‚çº“Œ…”ÅD°N1»U’”ÜÀ  4¤˜ñižÌ\_ dæB‘@°²b	Ä¥•¸¤X@luJž{x:šƒ±r%{Ÿ|ºN±º‡'¢ÃSj§Ã	ýVÞos'I^`&šÌË(4áW,.t90-2¿Ìð¥Ð|Ð…PC9ˆöë_Ã²æZ§ÓÒ°CÇ)àÉØƒôÿýÐ»YY·Qa’«ò
+(¤ç2¥”kËî&IÂBÓQ%OöK!%Ì/[“S´AOxx©°±¿ß’°#0–´]Ê£.GÈ-6kwÕ)î$Å¶m‘;)`»Í±u¸“:l‹ÝI=¶ÛÝI¶%î¤ÛRw2[—[N+x‘ËR½Bw£ÛÔ)îƒùkƒÇÕÁºƒ•kƒ'ÔAÉM”\×í6Œ{}AÝ+ntãþœ°?	ø*ƒýa+Ãþ°-‡ýa[ûÃ¶ö‡mìÛjØ¶5°?lkaØÖ»¥.n¹nX¶0.Aô£ñ ×-xc=o£[ip)à˜;À'ú¥Û¨UN´Éá?Ã»oJë:™£¡é);j“:jE!:â.=Äs;œf·äåœ{šŠúàšà¿·äûIþó<s{ä¶d3µã^[@°[ó^“h«SZÝõ]uJÛPÁÂ ½TDò+¤z©cˆvpe¥_î‡`…áRS¥vH¸‚X¾R h"ÄÕ
+Ž–Ì"~%3àÚ·R/KR×
+ÐìÜŒ&Õ«ô=xƒ†-)q.¾‰èQÒIŽ+b¥n[Ì!×Ñ[æ3äp\Ñ¶úmÃžšžÄ@|QVt]aX$ Ç1äm“ Ö ÈaÐ±+„1u™| w‹Ed5¸êÁ‰A:08Ý¨Ed¢™à[©ëk!t¥e!A¯®R“…Übê^RL|<,÷ã¢¨Åž5âfTI+d:Z/uAfGîµN	ùÒT¡è+àipc£*ñVÖ®iKF“ïÝÀI ­®8V:[·œV±âG=J1¬¢$W©+VŸl¤6ðÛ¾M£“ŽÈ¦Qÿ-ç~ØŒ€[ép}Ø‚A·ÒéZÞÐÆ`S·E…Ö+0#Ä·ŒöY©J>•š_Ý:¨îSž§Ò»“&H:é)¿¦I÷ÿsY1î	ãX—¡jƒ½8cŸý€;\i©ÀS§Ë)krÑv³&‚A]u{(KÀÃ­õJxùÐmú‡µY•V€GÜJ;4£(Åˆ[
+CNKkÌ­Œ8î¾LH€ 	÷eÊ{&à=SˆÓÀ4â 0ƒ8ìDfÝW  ŠD9s_¡jß@jß]ˆGÚ…xÚxÚƒxšÇ5C ÄqM¸&{qMg €EÄA`â °q8Àù
+tó…Ð!ÎB‡9_á|!´ÄùBè(ç¡cœ/„îw­)p™?)> «`€'PèüÉO÷@®ÕpNª â|ŒãPçLî^£z/â3N« Î¸OýÐÑîWAD8«‚ˆð àö¬Ñ{?qôs*ˆèçUÑÿÌÔ.¨ "\TADø8àö®Ñûâè© ¢Rýa˜©!<¢‚ˆ°¢‚ˆð¨ûr&/q½ã²È„œž Æü.Å¸OÊ#§ÓÉºS,Ãw†¬M€²˜H¯ûÂˆT T˜…F óÆEQ4ˆ†<‹Y§/rYg…Åi‘XáÍwèRq!ëÆõ.ö™›Kø[âwWOÑ`ï3©V
+#Q_&þPùÐ‘1‡/q>¦p*ö|•™
+]y=´Õ“C·S[~\Ï¼ßmÛÓ1±û¾ûvOtìi£Ÿ}nÅ~ëÌÎ3o…]+ÏíÁÙ‡a…G7¯ ½Íå+ÀzŸ€õÖV(Ï¡¹‡vÓæÊ*O	³ÓG7.ñ—\áIª§Dñw¢Ÿ:(™ÅÃô<ˆŽüÁQ°¦—Õë´?IË¨~zçý-|-‘‹0\äËdÊß$ÉØ†)vÙK—.\¼xgÌÁ^R°Ô«{Éâk¬‰ËÄÅ…¤NÅðaLõÐ9ºk õôŠpáÆƒˆæõÕ°«$u©×	0>‚Á`”c
+qÔgP@^2I¦ÅnÑ™Š\¯Ç"ªZ=}æÛeÇ+_dž§½ÏÞ¼44û€f{ƒ‘*_yN6‹à4Y‚068J`m‹ùÕfÑ´ÍUC½­ª¬å2½¡ª‡zšòí6}.u²¢Týß´u|ÝýyÃ…G÷ì¿g|ôuzÿÎ4%š²zC=íÅý»ï¾kèlàÜMãêu¦‡•Ý$èëË41ˆÁTG¤R&ê„=lH'Ý¬ˆ¢ ~†„1J\5åeÛ9YF=qS·Á”ï¢M-k<µxšJ ¾ëvlr¨\VYÕZŒrõÒœþáP§·¿ wðÑ®½mÃÝ¾]G¦Wõ–uFÆF¦èã¾fCKG½«ñDM¤Õ7+fÍuíòôµ464„zŒ=Áð¯2^hÄDrHƒÏ-0ÐäˆŽ2‘‘ƒ\9z*ŠAÔ’•	ˆ&‹%Ïb 9:½N/EµÈö
+§E¦gR_¡õgL}f‹ÑŸ¦l¡G¾Ge5²²Ã:eÄãk”Jó,L'ˆ¨'"
+T<
+ÒÍ.€úââbc¶ŠŠÊr³ÞTì¢NÁƒjº•0¸¼¬NúnêÛ6C±¿¹;ÞÒ¾49PÕ+…;ûÇÆêÚ·õÑ³ìxêÝÊÊæ„?x¨ƒË`,d•l7Ñó ðWüå“rÒâó˜(°…Ü“þ¡
+%@2ÈZA!årI1Ì°WæÀ‡ó+½Íj 0l`vÍÒ0|x¾~nødÏÒ}ëŠ§º»ç½GÂáH¤¿î¬K$ž»X=ûÔIÖàõ&ú€Ïþñ°1<Î¿4K·F2ù‚}p„¿Úñ"Ÿ„žÀà8¢Œj~äð©CÂùŒÅ|YÿÂh±¨nFàöN;}–ZRß¦?H]g'.üÙÐÍOVŽ,ÝAjH+Z»UÏP@*0vÐcüçŠÁQ#ÕéhBá`ˆŽÕÖRÛZÛ²£¡¸¦¸Zv‰mîˆùõÔÛÜÒêåê€kÆž×²Qd›ŸþêXÛp ­ïÞC‡îík·úýƒ¡é©áá©é¡¬æ]¡yFëÎÎÈü|¤s§Õ˜·3Ô±«™þ»Ž–og§7§¥#õL 3¿ËïïÊï`žñÁW!ìõ~`àú×Q”Jåà¨I
+
+PùÕ••V=øQƒwkš&îG(úM|³Â(þØ¹/jª§±-Š¿ôÀÑªþJá«to€ÈXç«Å?JXs BŠ¦V½ Ž¤à¤™¦#à@±P¬³J6ÈV•Ê‚‡þ¤óÝÎÙ·î~+õ‹Œ½ßýÖ·ØÕ›a–Hýí(¬P
++˜É6A·¯Ã@uŒBcÇÄ1-FA8"f]\®Ø‘g^^\^T`Ù–·Í-Á¬[ê´¦—}Šþ}ì@‡§w`ÇNoêÝk--Ÿú|g__ççÙÕ½“]Cf!g"Ô¶ËKml¨jØñßR_ki®in¹‰Ñ$ö¸´µÔû\ùF‘©A_3Bˆ@CâÉd)ª¨(G+GEk+0ÔÓ´fšZZ€Çož;÷àl¢t ¿·cbjj¢£7 41›õŠ¢¼2v¶vÜ¿tbéþŽVgx
+õ’`÷Å<Ré“×…#B€HÇ”aÉÍÈ3å•Kºu¡¸hkZ–ù×ÏÁçõ¯OÎÎNaW•gŸUO^:|òæÛ˜ya#Ï–`‘°¦ ¦m%Ð½n^îÔ¥3¦…ëÜáòXœöô5GŸK}‰Ž¥.Ó9vuð¿^$í< Á«ªÐÖ¥#> d U´ó5ª–9úrês4œºÊ)¦^GŠm èÄI^òeBÖA>ªZŒ*‹x TC°š™˜&‡ ŒV² «ìXz}PE%iLÛG ÷QHáßä@2³‚mÈÓvW…ÌsË­,¤›ÊX†Ð?ÔÙüËÇÏ>ÛçÈïé˜œšð}ú'c»Û_zöù«3A°”3G—–ÏMø©/ƒ\"kZt×ˆJ ÐJPÊÜL¸Ú´<g‘- f®õ|êçÓÓÔwwêuv5õÚ|3LVWùïÒ¯±«fÆ‹0Š¿ñ2?¬MJ}Å™zÊ«*,È£åñ*ÏfÉÃÊ‡ìHßÓK=‚U¦Ù‹ÓÓÂ®ïí{÷Æ^ºóÔaÏœ|/õÃ¯’OÕ ªCªªÁA%€ó CËÐÅ"‚a{eûéi:ñ„×d0W°ðXâöÕ˜@«ô`ƒª&!-XŠÙbµXlh¶ÔI«dÄ+…}©óË_ê,š¼ðmñO/L²‘¥¾OOÞ|8}˜ž†Ø5B6IjaüóÂ­Û‡øö­mï#÷þÜlüfØ~‰‚p·b	¬Ø@ìÈûz^ÓáQ#!ªyÍh„Ôi7Úr³Q_¦Ç|f1{š,æ-é¾íúõë‘ááÞYô=”úÝÔïÞwìÄ±ûø¬8§Å]±—¯Ó5_Ù×|Q“¸-/›×_åN½*u-ž­×…s©øñg¾‚Yî+ìêáùùÃ©·éqïŽæ^¾»²`wY¤„øB–œLAå2Ñ Qþrã={V×œ²€ŽìU&;›ì’ìí…ùæ\ ‘UV†Á^W¥—Ëøîm†‚òÖ*OÁæÄ—7Ñ9bhº”úiÅÊ‘»*ÊQ*?÷É…Ò‹Á¶‰-2©à]@š|kE(À@8"„)¨0æ×N ßÜœ|[NAn%ßiÆÂÔ#k²1XeA^·ÏMƒxbS—÷<s÷º„föS? µý\F«hOu`% ¥
+Ì.ùv‰á†8Ö½!»TòrW…š]´ºÔÛ\Ù@µÊF$v[~)Ežäÿx¦¶»fWÏðDWx,>}öèSÃÒTwÿHçÀð‹çOfõu45ï÷6·ee›÷îY<â©uwwîèÈÊ–žJCþŠ@:½¼€ˆ"bÞ×j€µ“œšý‘%
+ÏËºÓÃ*Ùñ›—ØñAž"°KôûN ]|h'örO›V‹÷ÕC½à:6­Ì±<ÛÑÛÛ‘;íÜ³{÷'øäî‰Ù¦¦Ù	ú…Ôñã‹Çé%_a)½’%CÀc8(SÓ%¯Fí»Ý¬ƒ`õ8èú?AÎ¤ø¯(6ÜÁú¢ñ™>¡k|ç•Ýwù˜÷nXQIýŠêhÚT¤‘›aº‹’U’z×}•Ò˜	F£¿VÞä²¶^œifïÈÏb÷ƒ*™¼¡†ü£/N%¡Ó§³f]ˆ[z,~Ä8ÅÈ(IP#0Í Cúa-‡ÕÜfŽ‘¦§p3‚(¢¥²_o‘_ƒ>æ7Gi)%¥5¥ÕxÚÌ·™s23ô")¡%&8q:Ëªd=Ïx`«à±Úaý¶“Ú+1í•q'¦?›ÈÔ•ß;ÿ/Ç|{Ü-öýCw±ç–¿9¶ÒÞ4Ÿü·ž¶Ž‘jw×î‰÷ríáÖÖê™1{U-VJ ãbv ”Ÿ{1›1˜>¸`Z	¦cÍÈ(3,!¨G,MœÒØuPC$i<ÛiÝ™ÿ]pšËöJk¹l6pc´x´³‰¢²Ëå›"Û|Dl::äÈüÑ&1B‹ÆÆBm##mìZê;ñKçÎ]ŠOwN÷Gû§Ûš®6µ¡=Nƒ$D°¶"5®l©ZG¶V­E¤ðÃªV^´~ÿìÙ£ñ_Ž¿!46Ö¿·¶½pq(ëñ³g÷µ–U»gÃÑðì\Ukè¡kõ:ýåš2É&=0¶Uv$!l*Í¤-8kÜR˜}8­;“Ù¨‹µ¼õP¡Y)FSž¼+7éþ‡zˆŒ€@¡iU	P4wrpe ×ø»3)$exÎ±Ûø;g=&Ò†43šBôªBŠ Š•9áÄ_H
+d[¥“>í•Ðíp~^?L0|[èDŸú»c]GÂÁƒí©;<#öÎÂ£CájZ=îËòŸ™˜¸?Ðwb°²0mpU·ôÑÖ¸™Á~Ê¯/‚Æì¼F×Ž !¨ðEV"a^Òê¡€´9Ë-f¬a­P§"Kà¾r2áŠO~îàAÏüx~A{{É#DèkAOxÄÌ¬kl¦|Ü6Ü`h™Uäº/+?“éucÀy4qBˆQms*½ž³MÛîÀš™T€jÃ£›|(²í£R­ùèT¡èGÙ}·Eç~óånÛ¶­jßËËe¨aŠ]ÜÃ[Aò6›×Ã6›Ú/O9jh™yLnÏÒÒ4¹Ïig9r¦¿µí‰ñÇÎœy,>
+µ5}ÍnÌŽbEo€6­øž’a7¢Æ$¬+¹/ˆj¡g•­²–µð9œ³ ÀÞˆXsx2ééòGx¨9¸;õí‡=©'ðt€ÂøsvÍ\EgW@qÍÈ?â‹ž$¡ŠYñºø‰á¸Að’MÊ}ÎL“©‘ˆ³ƒf¥ùÖ<ajUXMÁâPDœûêÞ·~¶ð§1ä næó–zƒfM¼Š”÷ ‘÷²‰Ÿv(¡‘y­§$Ã ‰‰šDH?3Ö`«Wªë"Ežú
+ö;7ï/
+8Ôå`‘åäÒ‹à†k±ÊŽïáH‚—áQƒŽ©oºTëÃ¿¼ó7u4'€‘¶ÛÏþ‰h.™¨kE¹Ùh*aØù»ÈüµÙ¨5 m¾Ö–i3÷ŒÇ"­žp¤¥Ý3aât§Ù[ß©ê-ö4¤ž ý…°%kvb;yø›‰ºq+?¹‚µ£:‘qiÛ.àÜ¯Ò†aÛífÞvnê|Xw­üaÏ[,q£!Âž6›¡ZYåÃ.rÉöç¨‘Íç(³€ÛÍÅv@Ì©Ô§ßÞöõéµCíí‡øw(	áatròŒ_ýMÁ‰|ŠñÚ£jó­k4U(ëu Êc@ØX{„?PSlÆ³Ý‘ÖÉÜºö°o¬=,2ù(µ‡¨e½Ô5*l(>(Y«ú2d²Ñ/ÔMšiÂMÝê”5w‡¥yAS^Žè*nœ Ó½p!2Ù›ú+ü™ô›’­TkF7‘F¶ž‘*I…ìVk™MG$¦‘*Ó'¤†þ\¬¥r®³w¨Ñ5±c¨åÄž5·éîÛQ;Ñ4ä=µ˜µ¯¡¦ºÎ]!é³EÍÃãS;új«Ó#3ÀßØïoó3æNQÄ÷÷FæÑüÂÈçS{ùbsò÷?­pÈáÛÆÃæQƒ]þ%ííÙYãóžååÈ“O~µ±.3è	SkðÅƒè¯» ®úHÖJ|*š6°<AÍÐ(eqS)•¯ˆbp4íëÔ­æÝn
+ÎKpÓ2Ýz•„ë/‰ô¥é"‚^J‡S¯£—Òý7o ÷ê{oQ=KB¸“™jëïyà0iUßóü½ŒðËW&žŸ…‰©^ú t@¤B+Ð±avË5Â1
+(·	›iÙˆÍG=*ÖRŠIEýàœžKeáIo€v÷÷Œ3¿wøÓç˜g8ñ&~ëýßüæ_½qóýìŽÿu/ø¶ …”ùJs3.(¨ÖVíÐ5“¦šC]Ôëiê¥®ÙJÿSd•XÛÛFî*15|rvTeâÍGªƒŽ{èûoÿÉŸ¤ß¬áñ?cáY’¿}àëóë?YfŒ<Kžú“%Ô~pævÚgèhêkô÷RWèì(½'8šz,ˆ9šŸ;…Ls$Eb†ŠôgüO¡ù_Öák«Ï¬FÕHÍŒ¿@¶ÈÇ"à†\s¿`‡iœáÿ¬Jêƒ¾büY–ÐÙôº”lü8©'AŠ¿ëÆ³7†Qí-âÚZ.\ËÍ×2ªk-MOã„ü/÷?¹9
+endstream
+endobj
+135 0 obj
+<</Type /FontDescriptor
+/FontName /AAAAAA+iAWriterQuattroS-Regular
+/Flags 4
+/Ascent 1024
+/Descent 274
+/StemV 84
+/CapHeight 698
+/ItalicAngle 0
+/FontBBox [-394 -251 1161 1119]
+/FontFile2 134 0 R>>
+endobj
+136 0 obj
+<</Type /Font
+/FontDescriptor 135 0 R
+/BaseFont /AAAAAA+iAWriterQuattroS-Regular
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [0 [600 0 0 450] 11 43 600 44 [300 0 600 600 900] 49 56 600 58 [900] 68 72 600 73 [450 600 600 300 0 600 300 900] 81 83 600 85 [450 600 450 600 600 900] 92 161 600]
+/DW 0>>
+endobj
+137 0 obj
+<</Filter /FlateDecode
+/Length 316>> stream
+xœ]’Ûj„0†ï}Š\n/cÔ=€{*xÑµ} MÆm Æ³¾}ãŒÝ…þ/ÿ?q2Æ§ê\íYüîYƒg6ÊÁ8ÜœÖÂU›(Lié…oÙ76ŠC¸žF}eº!*
+Æâ°;z7±ÕA-<Eñ›Sà´¹²Õ×©º¾Yû=ÏxT–LA*½4öµéÅ[W*ìk?­Cæáøœ,0:¡¯‘ƒ‚Ñ6\c®<¬’Ïa•õo?¥TÛÉïÆ¡;nÎ/g•På[T‡Õ…c¥%³ÿ«ð8ðˆ6~¢J;Ì&U"ž	fÉ™&AA0[à…,;‚G„93rnÈ™‘3§>6äÌs‚ÔÎV¤\~&¸_º¢>æ«šGzŸƒ¼9F€sÇ»Ÿo]¸ÿv°sj~~Ï¤£P
+endstream
+endobj
+4 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+iAWriterQuattroS-Regular
+/Encoding /Identity-H
+/DescendantFonts [136 0 R]
+/ToUnicode 137 0 R>>
+endobj
+xref
+0 138
+0000000000 65535 f 
+0000000015 00000 n 
+0000060600 00000 n 
+0000000304 00000 n 
+0000071217 00000 n 
+0000000341 00000 n 
+0000000549 00000 n 
+0000000759 00000 n 
+0000000999 00000 n 
+0000001206 00000 n 
+0000001435 00000 n 
+0000001666 00000 n 
+0000001900 00000 n 
+0000002135 00000 n 
+0000002365 00000 n 
+0000002595 00000 n 
+0000002824 00000 n 
+0000003055 00000 n 
+0000003307 00000 n 
+0000003580 00000 n 
+0000003854 00000 n 
+0000004132 00000 n 
+0000004358 00000 n 
+0000004587 00000 n 
+0000004818 00000 n 
+0000005076 00000 n 
+0000005307 00000 n 
+0000005541 00000 n 
+0000005804 00000 n 
+0000006043 00000 n 
+0000006319 00000 n 
+0000006612 00000 n 
+0000006908 00000 n 
+0000007224 00000 n 
+0000007566 00000 n 
+0000007764 00000 n 
+0000007957 00000 n 
+0000008173 00000 n 
+0000008372 00000 n 
+0000008608 00000 n 
+0000008836 00000 n 
+0000009089 00000 n 
+0000009305 00000 n 
+0000009554 00000 n 
+0000009765 00000 n 
+0000009973 00000 n 
+0000010190 00000 n 
+0000010454 00000 n 
+0000010657 00000 n 
+0000010873 00000 n 
+0000061136 00000 n 
+0000022471 00000 n 
+0000022696 00000 n 
+0000022943 00000 n 
+0000023193 00000 n 
+0000023430 00000 n 
+0000023666 00000 n 
+0000023865 00000 n 
+0000024071 00000 n 
+0000024285 00000 n 
+0000024477 00000 n 
+0000024687 00000 n 
+0000024918 00000 n 
+0000025146 00000 n 
+0000025360 00000 n 
+0000025615 00000 n 
+0000025895 00000 n 
+0000026187 00000 n 
+0000026481 00000 n 
+0000026722 00000 n 
+0000026984 00000 n 
+0000027213 00000 n 
+0000027457 00000 n 
+0000027710 00000 n 
+0000027970 00000 n 
+0000028208 00000 n 
+0000028462 00000 n 
+0000028718 00000 n 
+0000028969 00000 n 
+0000029228 00000 n 
+0000029477 00000 n 
+0000029743 00000 n 
+0000030018 00000 n 
+0000030199 00000 n 
+0000030377 00000 n 
+0000030562 00000 n 
+0000030778 00000 n 
+0000031024 00000 n 
+0000031229 00000 n 
+0000031428 00000 n 
+0000031659 00000 n 
+0000031915 00000 n 
+0000032173 00000 n 
+0000032387 00000 n 
+0000032568 00000 n 
+0000032753 00000 n 
+0000032955 00000 n 
+0000061685 00000 n 
+0000044762 00000 n 
+0000044956 00000 n 
+0000045153 00000 n 
+0000045351 00000 n 
+0000045548 00000 n 
+0000045773 00000 n 
+0000046022 00000 n 
+0000046217 00000 n 
+0000046417 00000 n 
+0000046601 00000 n 
+0000046788 00000 n 
+0000047000 00000 n 
+0000047241 00000 n 
+0000047509 00000 n 
+0000047793 00000 n 
+0000048011 00000 n 
+0000048240 00000 n 
+0000048479 00000 n 
+0000048731 00000 n 
+0000049002 00000 n 
+0000049207 00000 n 
+0000049425 00000 n 
+0000049657 00000 n 
+0000049892 00000 n 
+0000050150 00000 n 
+0000050379 00000 n 
+0000050605 00000 n 
+0000050833 00000 n 
+0000051060 00000 n 
+0000051291 00000 n 
+0000051473 00000 n 
+0000051652 00000 n 
+0000051862 00000 n 
+0000052099 00000 n 
+0000062182 00000 n 
+0000062253 00000 n 
+0000062304 00000 n 
+0000070225 00000 n 
+0000070437 00000 n 
+0000070829 00000 n 
+trailer
+<</Size 138
+/Root 133 0 R
+/Info 1 0 R>>
+startxref
+71375
+%%EOF
